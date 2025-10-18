@@ -8,6 +8,7 @@ export const metadata = {
   title: "Pet Name Generator",
   description:
     "Generate creative names for your pets",
+  keywords: "pet, animal, name, generator,",
   other: {
     "google-adsense-account": "ca-pub-9079975836016176",
   },
