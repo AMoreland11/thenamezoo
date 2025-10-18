@@ -7,7 +7,7 @@ const inter = Inter({ subsets: ["latin"] });
 export const metadata = {
   title: "Pet Name Generator",
   description:
-    "Generate creative names for your pets with ads and affiliate links",
+    "Generate creative names for your pets",
   other: {
     "google-adsense-account": "ca-pub-9079975836016176",
   },
