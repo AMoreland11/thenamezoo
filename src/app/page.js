@@ -76,11 +76,11 @@ export default function Home() {
         </header>
 
         <div className="bg-white rounded-xl shadow-lg p-6 mb-8">
-          <div className="flex flex-col md:flex-row items-center justify-center gap-4">
+          <div className="flex flex-col md:flex-row items-center justify-center gap-4 cursor-pointer">
             <select 
               value={petType}
               onChange={(e) => setPetType(e.target.value)}
-              className="w-full md:w-auto px-4 py-3 border-2 border-violet-300 rounded-lg focus:outline-none focus:ring-2 focus:ring-violet-500 text-violet-800 font-medium bg-white"
+              className="w-full cursor-pointer md:w-auto px-4 py-3 border-2 border-violet-300 rounded-lg focus:outline-none focus:ring-2 focus:ring-violet-500 text-violet-800 font-medium bg-white"
             >
               <option value="">Select a Pet Type</option>
               <option value="all">All Pet Names</option>
