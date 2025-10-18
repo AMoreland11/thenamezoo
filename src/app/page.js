@@ -157,9 +157,9 @@ export default function Home() {
                             Advertisement
                           </h3>
                           <div className="bg-violet-200 border-2 border-violet-400 rounded p-4">
-                            <p className="text-violet-800">
+                            {/* <p className="text-violet-800">
                               Google AdSense Ad Placement
-                            </p>
+                            </p> */}
                             <p className="text-sm text-violet-600 mt-2">
                               <script
                                 async
