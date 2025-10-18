@@ -1,0 +1,4022 @@
+{
+  "dog": [
+    {
+      "name": "Zeus",
+      "meaning": "The sky or to shine",
+      "origin": "Greek mythology - supreme god of sky and thunder",
+      "personality": "Strong, commanding, and protective. Perfect for a dog with a regal presence and natural leadership.",
+      "popularity": "Very popular",
+      "gender": "Male"
+    },
+    {
+      "name": "Athena",
+      "meaning": "Goddess of wisdom, courage, and warfare",
+      "origin": "Greek mythology - protectress of the city of Athens",
+      "personality": "Intelligent, brave, and strategic. Ideal for a smart and loyal companion who thinks before acting.",
+      "popularity": "Very popular",
+      "gender": "Female"
+    },
+    {
+      "name": "Atlas",
+      "meaning": "To carry or endure",
+      "origin": "Greek mythology - Titan condemned to hold up the celestial heavens",
+      "personality": "Strong, dependable, and resilient. Great for large, sturdy breeds who can handle anything.",
+      "popularity": "Popular",
+      "gender": "Male"
+    },
+    {
+      "name": "Loki",
+      "meaning": "Trickster and shape-shifter",
+      "origin": "Norse mythology - god of mischief and chaos",
+      "personality": "Playful, mischievous, and clever. Perfect for energetic and cunning dogs who love to play tricks.",
+      "popularity": "Very popular",
+      "gender": "Male"
+    },
+    {
+      "name": "Phoenix",
+      "meaning": "Mythical bird that rises from its own ashes",
+      "origin": "Greek mythology - symbol of rebirth and immortality",
+      "personality": "Resilient, vibrant, and spirited. Ideal for rescue dogs or survivors who've overcome challenges.",
+      "popularity": "Popular",
+      "gender": "Unisex"
+    },
+    {
+      "name": "Buddy",
+      "meaning": "Friend or companion",
+      "origin": "American English - term of endearment",
+      "personality": "Friendly, loyal, and affectionate. The quintessential family dog name for your best friend.",
+      "popularity": "Extremely popular",
+      "gender": "Male"
+    },
+    {
+      "name": "Max",
+      "meaning": "Greatest or largest",
+      "origin": "Latin - short for Maximus or Maxwell",
+      "personality": "Confident, strong, and bold. Perfect for dogs with big personalities who command attention.",
+      "popularity": "Extremely popular",
+      "gender": "Male"
+    },
+    {
+      "name": "Bella",
+      "meaning": "Beautiful",
+      "origin": "Italian/Spanish - feminine form of bello",
+      "personality": "Graceful, elegant, and charming. Ideal for sweet and pretty dogs who steal hearts.",
+      "popularity": "Extremely popular",
+      "gender": "Female"
+    },
+    {
+      "name": "Charlie",
+      "meaning": "Free man",
+      "origin": "English - diminutive of Charles",
+      "personality": "Friendly, easygoing, and adaptable. Great for sociable dogs who get along with everyone.",
+      "popularity": "Extremely popular",
+      "gender": "Unisex"
+    },
+    {
+      "name": "Lucy",
+      "meaning": "Light or illumination",
+      "origin": "Latin - from lux meaning light",
+      "personality": "Bright, cheerful, and energetic. Perfect for dogs who light up your life with joy.",
+      "popularity": "Very popular",
+      "gender": "Female"
+    },
+    {
+      "name": "Cooper",
+      "meaning": "Barrel maker",
+      "origin": "English - occupational surname",
+      "personality": "Hardworking, reliable, and sturdy. Great for working breeds who love having a job.",
+      "popularity": "Very popular",
+      "gender": "Male"
+    },
+    {
+      "name": "Daisy",
+      "meaning": "Day's eye - flower that opens at dawn",
+      "origin": "Old English - from the flower name",
+      "personality": "Sweet, innocent, and cheerful. Ideal for gentle and loving dogs with sunny dispositions.",
+      "popularity": "Very popular",
+      "gender": "Female"
+    },
+    {
+      "name": "Rocky",
+      "meaning": "Rock-like or from the rocky area",
+      "origin": "English - also popularized by the movie character",
+      "personality": "Tough, determined, and strong. Perfect for resilient and brave dogs who never give up.",
+      "popularity": "Very popular",
+      "gender": "Male"
+    },
+    {
+      "name": "Milo",
+      "meaning": "Soldier or merciful",
+      "origin": "Germanic - possibly from mild meaning gentle",
+      "personality": "Gentle, kind, and adventurous. Great for curious and loving dogs who explore the world.",
+      "popularity": "Very popular",
+      "gender": "Male"
+    },
+    {
+      "name": "Luna",
+      "meaning": "Moon",
+      "origin": "Latin - Roman goddess of the moon",
+      "personality": "Mystical, calm, and beautiful. Perfect for dogs with a serene presence and peaceful nature.",
+      "popularity": "Extremely popular",
+      "gender": "Female"
+    },
+    {
+      "name": "Bentley",
+      "meaning": "Meadow with coarse grass",
+      "origin": "English - also associated with luxury car brand",
+      "personality": "Sophisticated, elegant, and distinguished. Ideal for refined breeds with class.",
+      "popularity": "Popular",
+      "gender": "Male"
+    },
+    {
+      "name": "Cody",
+      "meaning": "Helpful or cushion",
+      "origin": "Irish/English - from O Cuidighthigh",
+      "personality": "Supportive, friendly, and dependable. Great for therapy or service dogs who help others.",
+      "popularity": "Popular",
+      "gender": "Male"
+    },
+    {
+      "name": "Zoe",
+      "meaning": "Life",
+      "origin": "Greek - meaning life or alive",
+      "personality": "Lively, energetic, and vibrant. Perfect for active and spirited dogs full of vitality.",
+      "popularity": "Very popular",
+      "gender": "Female"
+    },
+    {
+      "name": "Tucker",
+      "meaning": "Cloth softener or tucker of cloth",
+      "origin": "English - occupational surname",
+      "personality": "Hardworking, loyal, and energetic. Ideal for active working breeds who love to stay busy.",
+      "popularity": "Popular",
+      "gender": "Male"
+    },
+    {
+      "name": "Winston",
+      "meaning": "Wine's town or joyful stone",
+      "origin": "English - made famous by Winston Churchill",
+      "personality": "Noble, dignified, and wise. Perfect for distinguished and intelligent dogs with gravitas.",
+      "popularity": "Popular",
+      "gender": "Male"
+    },
+    {
+      "name": "Duke",
+      "meaning": "Leader or nobleman",
+      "origin": "Latin - from dux meaning leader",
+      "personality": "Commanding, noble, and authoritative. Perfect for dogs who naturally take charge.",
+      "popularity": "Very popular",
+      "gender": "Male"
+    },
+    {
+      "name": "Bear",
+      "meaning": "Large mammal",
+      "origin": "English - from the animal",
+      "personality": "Strong, protective, and cuddly. Great for large, fluffy dogs with bear-like qualities.",
+      "popularity": "Very popular",
+      "gender": "Male"
+    },
+    {
+      "name": "Bailey",
+      "meaning": "Bailiff or steward",
+      "origin": "English - occupational name",
+      "personality": "Friendly, loyal, and trustworthy. Ideal for dependable family dogs.",
+      "popularity": "Very popular",
+      "gender": "Unisex"
+    },
+    {
+      "name": "Sadie",
+      "meaning": "Princess",
+      "origin": "Hebrew - diminutive of Sarah",
+      "personality": "Sweet, gentle, and regal. Perfect for dogs who deserve royal treatment.",
+      "popularity": "Very popular",
+      "gender": "Female"
+    },
+    {
+      "name": "Jack",
+      "meaning": "God is gracious",
+      "origin": "English - from John",
+      "personality": "Energetic, playful, and spirited. Great for active and fun-loving dogs.",
+      "popularity": "Extremely popular",
+      "gender": "Male"
+    },
+    {
+      "name": "Molly",
+      "meaning": "Star of the sea",
+      "origin": "Irish - from Mary",
+      "personality": "Sweet, loving, and devoted. Ideal for affectionate companion dogs.",
+      "popularity": "Very popular",
+      "gender": "Female"
+    },
+    {
+      "name": "Toby",
+      "meaning": "God is good",
+      "origin": "Hebrew - from Tobias",
+      "personality": "Cheerful, friendly, and optimistic. Perfect for happy-go-lucky dogs.",
+      "popularity": "Very popular",
+      "gender": "Male"
+    },
+    {
+      "name": "Sophie",
+      "meaning": "Wisdom",
+      "origin": "Greek - from Sophia",
+      "personality": "Intelligent, graceful, and refined. Great for smart and elegant dogs.",
+      "popularity": "Very popular",
+      "gender": "Female"
+    },
+    {
+      "name": "Oliver",
+      "meaning": "Olive tree",
+      "origin": "Latin - symbol of peace",
+      "personality": "Peaceful, gentle, and friendly. Ideal for calm and loving dogs.",
+      "popularity": "Very popular",
+      "gender": "Male"
+    },
+    {
+      "name": "Maggie",
+      "meaning": "Pearl",
+      "origin": "Greek - from Margaret",
+      "personality": "Precious, loyal, and loving. Perfect for treasured family dogs.",
+      "popularity": "Very popular",
+      "gender": "Female"
+    },
+    {
+      "name": "Oscar",
+      "meaning": "God spear or deer lover",
+      "origin": "Irish/Norse - warrior name",
+      "personality": "Brave, strong, and protective. Great for courageous dogs.",
+      "popularity": "Popular",
+      "gender": "Male"
+    },
+    {
+      "name": "Rosie",
+      "meaning": "Rose flower",
+      "origin": "Latin - from Rosa",
+      "personality": "Sweet, beautiful, and cheerful. Ideal for lovely and happy dogs.",
+      "popularity": "Very popular",
+      "gender": "Female"
+    },
+    {
+      "name": "Leo",
+      "meaning": "Lion",
+      "origin": "Latin - king of beasts",
+      "personality": "Brave, confident, and majestic. Perfect for dogs with lion-like courage.",
+      "popularity": "Very popular",
+      "gender": "Male"
+    },
+    {
+      "name": "Penny",
+      "meaning": "Weaver",
+      "origin": "Greek - from Penelope",
+      "personality": "Clever, patient, and loyal. Great for smart and devoted dogs.",
+      "popularity": "Popular",
+      "gender": "Female"
+    },
+    {
+      "name": "Gus",
+      "meaning": "Great or magnificent",
+      "origin": "Latin - from Augustus",
+      "personality": "Strong, dignified, and impressive. Ideal for noble dogs.",
+      "popularity": "Popular",
+      "gender": "Male"
+    },
+    {
+      "name": "Stella",
+      "meaning": "Star",
+      "origin": "Latin - celestial name",
+      "personality": "Bright, shining, and special. Perfect for dogs who are stars.",
+      "popularity": "Very popular",
+      "gender": "Female"
+    },
+    {
+      "name": "Finn",
+      "meaning": "Fair or white",
+      "origin": "Irish - legendary hero",
+      "personality": "Adventurous, brave, and heroic. Great for courageous dogs.",
+      "popularity": "Popular",
+      "gender": "Male"
+    },
+    {
+      "name": "Ruby",
+      "meaning": "Red precious stone",
+      "origin": "Latin - from ruber",
+      "personality": "Precious, vibrant, and valuable. Ideal for treasured dogs.",
+      "popularity": "Very popular",
+      "gender": "Female"
+    },
+    {
+      "name": "Jasper",
+      "meaning": "Treasurer",
+      "origin": "Persian - precious stone",
+      "personality": "Valuable, loyal, and protective. Perfect for guardian dogs.",
+      "popularity": "Popular",
+      "gender": "Male"
+    },
+    {
+      "name": "Chloe",
+      "meaning": "Blooming or fertility",
+      "origin": "Greek - epithet of Demeter",
+      "personality": "Fresh, youthful, and vibrant. Great for lively dogs.",
+      "popularity": "Very popular",
+      "gender": "Female"
+    },
+    {
+      "name": "Buster",
+      "meaning": "Tough guy",
+      "origin": "American - nickname",
+      "personality": "Tough, playful, and energetic. Ideal for spirited dogs.",
+      "popularity": "Popular",
+      "gender": "Male"
+    },
+    {
+      "name": "Lily",
+      "meaning": "Pure flower",
+      "origin": "Latin - from lilium",
+      "personality": "Pure, innocent, and beautiful. Perfect for gentle dogs.",
+      "popularity": "Very popular",
+      "gender": "Female"
+    },
+    {
+      "name": "Diesel",
+      "meaning": "Engine fuel",
+      "origin": "German - inventor Rudolf Diesel",
+      "personality": "Powerful, strong, and energetic. Great for robust dogs.",
+      "popularity": "Popular",
+      "gender": "Male"
+    },
+    {
+      "name": "Gracie",
+      "meaning": "Grace or favor",
+      "origin": "Latin - from gratia",
+      "personality": "Graceful, elegant, and charming. Ideal for refined dogs.",
+      "popularity": "Very popular",
+      "gender": "Female"
+    },
+    {
+      "name": "Abby",
+      "meaning": "Father's joy",
+      "origin": "Hebrew - from Abigail",
+      "personality": "Joyful, loving, and devoted. Great for happy dogs.",
+      "popularity": "Very popular",
+      "gender": "Female"
+    },
+    {
+      "name": "Thor",
+      "meaning": "Thunder",
+      "origin": "Norse - god of thunder",
+      "personality": "Powerful, strong, and protective. Ideal for mighty dogs.",
+      "popularity": "Popular",
+      "gender": "Male"
+    },
+    {
+      "name": "Ellie",
+      "meaning": "Bright shining one",
+      "origin": "Greek - from Eleanor",
+      "personality": "Bright, cheerful, and loving. Perfect for happy dogs.",
+      "popularity": "Very popular",
+      "gender": "Female"
+    },
+    {
+      "name": "Ace",
+      "meaning": "Unity or number one",
+      "origin": "Latin - from as",
+      "personality": "Top-notch, excellent, and confident. Great for champion dogs.",
+      "popularity": "Popular",
+      "gender": "Male"
+    },
+    {
+      "name": "Nala",
+      "meaning": "Gift or beloved",
+      "origin": "Swahili - from Lion King",
+      "personality": "Loving, loyal, and brave. Ideal for devoted dogs.",
+      "popularity": "Very popular",
+      "gender": "Female"
+    },
+    {
+      "name": "Ranger",
+      "meaning": "Forest guardian",
+      "origin": "French - from rangier",
+      "personality": "Protective, adventurous, and brave. Perfect for outdoor dogs.",
+      "popularity": "Popular",
+      "gender": "Male"
+    }
+  ],
+  "cat": [
+    {
+      "name": "Nyx",
+      "meaning": "Night",
+      "origin": "Greek mythology - primordial goddess of the night",
+      "personality": "Mysterious, elegant, and nocturnal. Perfect for black cats or night owls who prowl after dark.",
+      "popularity": "Popular",
+      "gender": "Female"
+    },
+    {
+      "name": "Luna",
+      "meaning": "Moon",
+      "origin": "Latin - Roman goddess of the moon",
+      "personality": "Mystical, graceful, and serene. Ideal for cats with a calm demeanor and ethereal beauty.",
+      "popularity": "Extremely popular",
+      "gender": "Female"
+    },
+    {
+      "name": "Astra",
+      "meaning": "Star or of the stars",
+      "origin": "Latin/Greek - celestial reference",
+      "personality": "Bright, shining, and special. Great for cats who are the star of your life and shine brilliantly.",
+      "popularity": "Moderate",
+      "gender": "Female"
+    },
+    {
+      "name": "Gaia",
+      "meaning": "Earth mother",
+      "origin": "Greek mythology - personification of Earth",
+      "personality": "Nurturing, grounded, and natural. Perfect for earthy and maternal cats who care for others.",
+      "popularity": "Moderate",
+      "gender": "Female"
+    },
+    {
+      "name": "Aurora",
+      "meaning": "Dawn or northern lights",
+      "origin": "Latin - Roman goddess of dawn",
+      "personality": "Beautiful, colorful, and enchanting. Ideal for stunning and graceful cats with mesmerizing presence.",
+      "popularity": "Popular",
+      "gender": "Female"
+    },
+    {
+      "name": "Ziggy",
+      "meaning": "Victorious protector",
+      "origin": "Germanic - popularized by David Bowie's Ziggy Stardust",
+      "personality": "Quirky, unique, and rock-star cool. Great for cats with personality and star quality.",
+      "popularity": "Moderate",
+      "gender": "Unisex"
+    },
+    {
+      "name": "Willow",
+      "meaning": "Graceful tree with slender branches",
+      "origin": "English - from the willow tree",
+      "personality": "Graceful, flexible, and gentle. Perfect for elegant and flowing cats who move like dancers.",
+      "popularity": "Very popular",
+      "gender": "Female"
+    },
+    {
+      "name": "Chloe",
+      "meaning": "Blooming or fertility",
+      "origin": "Greek - epithet of the goddess Demeter",
+      "personality": "Fresh, youthful, and vibrant. Ideal for lively and playful cats full of spring energy.",
+      "popularity": "Very popular",
+      "gender": "Female"
+    },
+    {
+      "name": "Cleo",
+      "meaning": "Glory or pride",
+      "origin": "Greek - short for Cleopatra",
+      "personality": "Regal, proud, and commanding. Perfect for cats who rule the house like Egyptian royalty.",
+      "popularity": "Popular",
+      "gender": "Female"
+    },
+    {
+      "name": "Pandora",
+      "meaning": "All-gifted",
+      "origin": "Greek mythology - first woman who opened the forbidden box",
+      "personality": "Curious, mysterious, and full of surprises. Great for inquisitive cats who explore everything.",
+      "popularity": "Moderate",
+      "gender": "Female"
+    },
+    {
+      "name": "Siri",
+      "meaning": "Beautiful victory or tiger",
+      "origin": "Norse/African - multiple cultural meanings",
+      "personality": "Strong, beautiful, and fierce. Ideal for confident and striking cats with tiger-like grace.",
+      "popularity": "Moderate",
+      "gender": "Female"
+    },
+    {
+      "name": "Kali",
+      "meaning": "The black one or time",
+      "origin": "Sanskrit - Hindu goddess of destruction and rebirth",
+      "personality": "Powerful, fierce, and protective. Perfect for strong-willed cats with commanding presence.",
+      "popularity": "Moderate",
+      "gender": "Female"
+    },
+    {
+      "name": "Morgan",
+      "meaning": "Sea circle or sea chief",
+      "origin": "Welsh - from Morcant",
+      "personality": "Mysterious, fluid, and adaptable. Great for cats with flowing movements like water.",
+      "popularity": "Popular",
+      "gender": "Unisex"
+    },
+    {
+      "name": "Ruby",
+      "meaning": "Deep red precious stone",
+      "origin": "Latin - from ruber meaning red",
+      "personality": "Precious, vibrant, and valuable. Ideal for cherished and colorful cats who are treasured.",
+      "popularity": "Very popular",
+      "gender": "Female"
+    },
+    {
+      "name": "Oreo",
+      "meaning": "Black and white sandwich cookie",
+      "origin": "American - brand name",
+      "personality": "Sweet, playful, and distinctive. Perfect for black and white tuxedo cats with cookie coloring.",
+      "popularity": "Very popular",
+      "gender": "Unisex"
+    },
+    {
+      "name": "Midnight",
+      "meaning": "The middle of the night",
+      "origin": "English - time reference",
+      "personality": "Dark, mysterious, and nocturnal. Great for black cats or night prowlers who own the darkness.",
+      "popularity": "Popular",
+      "gender": "Unisex"
+    },
+    {
+      "name": "Pepper",
+      "meaning": "Hot spice",
+      "origin": "English - from the spice",
+      "personality": "Spicy, energetic, and feisty. Ideal for cats with a bit of attitude and zesty personality.",
+      "popularity": "Very popular",
+      "gender": "Unisex"
+    },
+    {
+      "name": "Whiskers",
+      "meaning": "Facial hair or sensory hairs",
+      "origin": "English - cat anatomy reference",
+      "personality": "Classic, traditional, and quintessentially feline. Perfect for any cat who embodies cat-ness.",
+      "popularity": "Very popular",
+      "gender": "Unisex"
+    },
+    {
+      "name": "Simba",
+      "meaning": "Lion",
+      "origin": "Swahili - popularized by The Lion King",
+      "personality": "Brave, noble, and kingly. Great for cats who think they're lions and rule their pride.",
+      "popularity": "Very popular",
+      "gender": "Male"
+    },
+    {
+      "name": "Mittens",
+      "meaning": "Hand coverings",
+      "origin": "English - reference to white paws",
+      "personality": "Cute, cozy, and endearing. Perfect for cats with white paws that look like mittens.",
+      "popularity": "Popular",
+      "gender": "Unisex"
+    },
+    {
+      "name": "Oliver",
+      "meaning": "Olive tree",
+      "origin": "Latin - symbol of peace",
+      "personality": "Peaceful, gentle, and friendly. Ideal for calm and loving cats.",
+      "popularity": "Very popular",
+      "gender": "Male"
+    },
+    {
+      "name": "Bella",
+      "meaning": "Beautiful",
+      "origin": "Italian - feminine form of bello",
+      "personality": "Graceful, elegant, and charming. Perfect for beautiful cats.",
+      "popularity": "Extremely popular",
+      "gender": "Female"
+    },
+    {
+      "name": "Charlie",
+      "meaning": "Free man",
+      "origin": "English - diminutive of Charles",
+      "personality": "Friendly, easygoing, and adaptable. Great for sociable cats.",
+      "popularity": "Very popular",
+      "gender": "Unisex"
+    },
+    {
+      "name": "Max",
+      "meaning": "Greatest",
+      "origin": "Latin - short for Maximus",
+      "personality": "Confident, strong, and bold. Ideal for dominant cats.",
+      "popularity": "Very popular",
+      "gender": "Male"
+    },
+    {
+      "name": "Sophie",
+      "meaning": "Wisdom",
+      "origin": "Greek - from Sophia",
+      "personality": "Intelligent, graceful, and refined. Perfect for smart cats.",
+      "popularity": "Very popular",
+      "gender": "Female"
+    },
+    {
+      "name": "Leo",
+      "meaning": "Lion",
+      "origin": "Latin - king of beasts",
+      "personality": "Brave, confident, and majestic. Great for courageous cats.",
+      "popularity": "Very popular",
+      "gender": "Male"
+    },
+    {
+      "name": "Lily",
+      "meaning": "Pure flower",
+      "origin": "Latin - from lilium",
+      "personality": "Pure, innocent, and beautiful. Ideal for gentle cats.",
+      "popularity": "Very popular",
+      "gender": "Female"
+    },
+    {
+      "name": "Milo",
+      "meaning": "Soldier or merciful",
+      "origin": "Germanic - from mild",
+      "personality": "Gentle, kind, and adventurous. Perfect for curious cats.",
+      "popularity": "Very popular",
+      "gender": "Male"
+    },
+    {
+      "name": "Kitty",
+      "meaning": "Pure",
+      "origin": "English - from Katherine",
+      "personality": "Classic, sweet, and traditional. Great for any cat.",
+      "popularity": "Very popular",
+      "gender": "Female"
+    },
+    {
+      "name": "Jack",
+      "meaning": "God is gracious",
+      "origin": "English - from John",
+      "personality": "Energetic, playful, and spirited. Ideal for active cats.",
+      "popularity": "Very popular",
+      "gender": "Male"
+    },
+    {
+      "name": "Molly",
+      "meaning": "Star of the sea",
+      "origin": "Irish - from Mary",
+      "personality": "Sweet, loving, and devoted. Perfect for affectionate cats.",
+      "popularity": "Very popular",
+      "gender": "Female"
+    },
+    {
+      "name": "Tiger",
+      "meaning": "Striped big cat",
+      "origin": "Greek - from tigris",
+      "personality": "Fierce, strong, and striped. Great for tabby cats.",
+      "popularity": "Very popular",
+      "gender": "Male"
+    },
+    {
+      "name": "Princess",
+      "meaning": "Royal daughter",
+      "origin": "English - royal title",
+      "personality": "Regal, pampered, and elegant. Ideal for spoiled cats.",
+      "popularity": "Popular",
+      "gender": "Female"
+    },
+    {
+      "name": "Smokey",
+      "meaning": "Gray like smoke",
+      "origin": "English - from smoke",
+      "personality": "Mysterious, soft, and gentle. Perfect for gray cats.",
+      "popularity": "Very popular",
+      "gender": "Unisex"
+    },
+    {
+      "name": "Jasper",
+      "meaning": "Treasurer",
+      "origin": "Persian - precious stone",
+      "personality": "Valuable, loyal, and protective. Great for guardian cats.",
+      "popularity": "Popular",
+      "gender": "Male"
+    },
+    {
+      "name": "Gracie",
+      "meaning": "Grace or favor",
+      "origin": "Latin - from gratia",
+      "personality": "Graceful, elegant, and charming. Ideal for refined cats.",
+      "popularity": "Popular",
+      "gender": "Female"
+    },
+    {
+      "name": "Felix",
+      "meaning": "Happy or lucky",
+      "origin": "Latin - from felix",
+      "personality": "Happy, lucky, and cheerful. Perfect for joyful cats.",
+      "popularity": "Popular",
+      "gender": "Male"
+    },
+    {
+      "name": "Zoe",
+      "meaning": "Life",
+      "origin": "Greek - meaning life",
+      "personality": "Lively, energetic, and vibrant. Great for spirited cats.",
+      "popularity": "Very popular",
+      "gender": "Female"
+    },
+    {
+      "name": "Oscar",
+      "meaning": "God spear",
+      "origin": "Irish/Norse - warrior name",
+      "personality": "Brave, strong, and protective. Ideal for courageous cats.",
+      "popularity": "Popular",
+      "gender": "Male"
+    },
+    {
+      "name": "Abby",
+      "meaning": "Father's joy",
+      "origin": "Hebrew - from Abigail",
+      "personality": "Joyful, loving, and devoted. Perfect for happy cats.",
+      "popularity": "Popular",
+      "gender": "Female"
+    },
+    {
+      "name": "Shadow",
+      "meaning": "Dark silhouette",
+      "origin": "English - from shade",
+      "personality": "Loyal, following, and mysterious. Great for dark cats.",
+      "popularity": "Very popular",
+      "gender": "Unisex"
+    },
+    {
+      "name": "Misty",
+      "meaning": "Covered with mist",
+      "origin": "English - from mist",
+      "personality": "Soft, gentle, and mysterious. Ideal for gray cats.",
+      "popularity": "Popular",
+      "gender": "Female"
+    },
+    {
+      "name": "Gizmo",
+      "meaning": "Gadget",
+      "origin": "American - slang",
+      "personality": "Curious, playful, and mechanical. Perfect for curious cats.",
+      "popularity": "Popular",
+      "gender": "Male"
+    },
+    {
+      "name": "Angel",
+      "meaning": "Messenger of God",
+      "origin": "Greek - from angelos",
+      "personality": "Sweet, gentle, and pure. Great for well-behaved cats.",
+      "popularity": "Popular",
+      "gender": "Female"
+    },
+    {
+      "name": "Boots",
+      "meaning": "Footwear",
+      "origin": "English - from boots",
+      "personality": "Adventurous, playful, and distinctive. Ideal for cats with white paws.",
+      "popularity": "Popular",
+      "gender": "Unisex"
+    },
+    {
+      "name": "Pumpkin",
+      "meaning": "Orange squash",
+      "origin": "Greek - from pepon",
+      "personality": "Sweet, round, and orange. Perfect for orange cats.",
+      "popularity": "Popular",
+      "gender": "Unisex"
+    },
+    {
+      "name": "Bandit",
+      "meaning": "Outlaw or thief",
+      "origin": "Italian - from bandito",
+      "personality": "Mischievous, playful, and clever. Great for sneaky cats.",
+      "popularity": "Popular",
+      "gender": "Male"
+    },
+    {
+      "name": "Socks",
+      "meaning": "Foot coverings",
+      "origin": "English - from socks",
+      "personality": "Cute, distinctive, and playful. Ideal for cats with white paws.",
+      "popularity": "Popular",
+      "gender": "Unisex"
+    },
+    {
+      "name": "Jasmine",
+      "meaning": "Fragrant flower",
+      "origin": "Persian - from yasmin",
+      "personality": "Sweet, fragrant, and beautiful. Perfect for lovely cats.",
+      "popularity": "Popular",
+      "gender": "Female"
+    },
+    {
+      "name": "Salem",
+      "meaning": "Peace",
+      "origin": "Hebrew - from shalom",
+      "personality": "Mysterious, magical, and peaceful. Great for black cats.",
+      "popularity": "Popular",
+      "gender": "Unisex"
+    }
+  ],
+  "bird": [
+    {
+      "name": "Kiwi",
+      "meaning": "New Zealand bird",
+      "origin": "Maori - flightless bird with adorable name",
+      "personality": "Cute, unique, and charming. Perfect for small birds with big personalities.",
+      "popularity": "Popular",
+      "gender": "Unisex"
+    },
+    {
+      "name": "Tweety",
+      "meaning": "Tweet sound",
+      "origin": "English - famous cartoon canary",
+      "personality": "Sweet, innocent, and vocal. Ideal for yellow birds who love to sing.",
+      "popularity": "Very popular",
+      "gender": "Unisex"
+    },
+    {
+      "name": "Mango",
+      "meaning": "Tropical fruit",
+      "origin": "Spanish - also refers to hummingbird genus",
+      "personality": "Colorful, sweet, and tropical. Great for vibrant birds with fruity colors.",
+      "popularity": "Popular",
+      "gender": "Unisex"
+    },
+    {
+      "name": "Rio",
+      "meaning": "River",
+      "origin": "Portuguese - from animated film",
+      "personality": "Adventurous, free-spirited, and musical. Perfect for birds who love to explore.",
+      "popularity": "Popular",
+      "gender": "Male"
+    },
+    {
+      "name": "Sky",
+      "meaning": "Heavenly space",
+      "origin": "English - natural for high-flying friends",
+      "personality": "Free, boundless, and soaring. Ideal for birds who love to fly high.",
+      "popularity": "Popular",
+      "gender": "Unisex"
+    },
+    {
+      "name": "Pepper",
+      "meaning": "Spice",
+      "origin": "English - perfect for gray or black birds",
+      "personality": "Spicy, energetic, and lively. Great for birds with peppery coloring.",
+      "popularity": "Very popular",
+      "gender": "Unisex"
+    },
+    {
+      "name": "Zazu",
+      "meaning": "Advisor",
+      "origin": "Hebrew - nervous red-billed hornbill",
+      "personality": "Wise, talkative, and loyal. Perfect for birds who seem to give advice.",
+      "popularity": "Moderate",
+      "gender": "Male"
+    },
+    {
+      "name": "Sunny",
+      "meaning": "Bright",
+      "origin": "English - for pets who brighten your day",
+      "personality": "Cheerful, warm, and radiant. Ideal for yellow birds with sunny dispositions.",
+      "popularity": "Very popular",
+      "gender": "Unisex"
+    },
+    {
+      "name": "Scuttle",
+      "meaning": "Human expert",
+      "origin": "English - eccentric seagull from The Little Mermaid",
+      "personality": "Quirky, funny, and entertaining. Great for birds with comedic timing.",
+      "popularity": "Moderate",
+      "gender": "Male"
+    },
+    {
+      "name": "Polly",
+      "meaning": "Parrot",
+      "origin": "English - generic parrot name from 1606",
+      "personality": "Classic, talkative, and traditional. Perfect for parrots who love to chat.",
+      "popularity": "Very popular",
+      "gender": "Female"
+    },
+    {
+      "name": "Echo",
+      "meaning": "Sound repetition",
+      "origin": "Greek mythology - mountain nymph",
+      "personality": "Vocal, repetitive, and musical. Ideal for birds who mimic sounds.",
+      "popularity": "Popular",
+      "gender": "Unisex"
+    },
+    {
+      "name": "Iris",
+      "meaning": "Rainbow",
+      "origin": "Greek mythology - goddess of the rainbow",
+      "personality": "Colorful, beautiful, and diverse. Great for multi-colored birds.",
+      "popularity": "Popular",
+      "gender": "Female"
+    },
+    {
+      "name": "Tinker Bell",
+      "meaning": "Tailor",
+      "origin": "English - fairy from Peter Pan",
+      "personality": "Magical, tiny, and spirited. Perfect for small birds with fairy-like qualities.",
+      "popularity": "Moderate",
+      "gender": "Female"
+    },
+    {
+      "name": "Aria",
+      "meaning": "Song",
+      "origin": "Italian - musical name",
+      "personality": "Musical, melodious, and artistic. Ideal for birds with beautiful songs.",
+      "popularity": "Popular",
+      "gender": "Female"
+    },
+    {
+      "name": "Peregrine",
+      "meaning": "Wanderer",
+      "origin": "Latin - referring to falcon or traveler",
+      "personality": "Swift, adventurous, and majestic. Great for falcons or fast birds.",
+      "popularity": "Moderate",
+      "gender": "Male"
+    },
+    {
+      "name": "Feather",
+      "meaning": "Bird plumage",
+      "origin": "English - directly related to birds",
+      "personality": "Light, soft, and gentle. Perfect for birds with beautiful plumage.",
+      "popularity": "Popular",
+      "gender": "Unisex"
+    },
+    {
+      "name": "Phoenix",
+      "meaning": "Rebirth",
+      "origin": "Greek mythology - mythical bird",
+      "personality": "Resilient, majestic, and legendary. Ideal for birds with fiery colors.",
+      "popularity": "Popular",
+      "gender": "Unisex"
+    },
+    {
+      "name": "Robin",
+      "meaning": "Red breast",
+      "origin": "English - common bird name",
+      "personality": "Friendly, cheerful, and familiar. Great for red-breasted birds.",
+      "popularity": "Very popular",
+      "gender": "Unisex"
+    },
+    {
+      "name": "Blue",
+      "meaning": "Color",
+      "origin": "English - perfect for blue birds",
+      "personality": "Cool, calm, and striking. Perfect for blue-colored birds.",
+      "popularity": "Popular",
+      "gender": "Unisex"
+    },
+    {
+      "name": "Wings",
+      "meaning": "Flight appendages",
+      "origin": "English - essential bird feature",
+      "personality": "Free, soaring, and graceful. Ideal for birds who love to fly.",
+      "popularity": "Moderate",
+      "gender": "Unisex"
+    },
+    {
+      "name": "Buddy",
+      "meaning": "Friend",
+      "origin": "American - term of endearment",
+      "personality": "Friendly, loyal, and affectionate. Perfect for companion birds.",
+      "popularity": "Very popular",
+      "gender": "Male"
+    },
+    {
+      "name": "Charlie",
+      "meaning": "Free man",
+      "origin": "English - diminutive of Charles",
+      "personality": "Friendly, talkative, and social. Great for parrots.",
+      "popularity": "Very popular",
+      "gender": "Unisex"
+    },
+    {
+      "name": "Angel",
+      "meaning": "Messenger",
+      "origin": "Greek - from angelos",
+      "personality": "Sweet, gentle, and pure. Ideal for white birds.",
+      "popularity": "Popular",
+      "gender": "Female"
+    },
+    {
+      "name": "Coco",
+      "meaning": "Chocolate",
+      "origin": "Spanish - from cacao",
+      "personality": "Sweet, rich, and warm. Perfect for brown birds.",
+      "popularity": "Very popular",
+      "gender": "Unisex"
+    },
+    {
+      "name": "Baby",
+      "meaning": "Infant",
+      "origin": "English - term of endearment",
+      "personality": "Small, cute, and precious. Great for small birds.",
+      "popularity": "Popular",
+      "gender": "Unisex"
+    },
+    {
+      "name": "Buddy",
+      "meaning": "Friend",
+      "origin": "American - companion",
+      "personality": "Friendly, loyal, and social. Ideal for companion birds.",
+      "popularity": "Very popular",
+      "gender": "Male"
+    },
+    {
+      "name": "Jewel",
+      "meaning": "Precious stone",
+      "origin": "French - from jouel",
+      "personality": "Precious, colorful, and valuable. Perfect for colorful birds.",
+      "popularity": "Popular",
+      "gender": "Female"
+    },
+    {
+      "name": "Lucky",
+      "meaning": "Fortunate",
+      "origin": "English - from luck",
+      "personality": "Fortunate, happy, and blessed. Great for rescued birds.",
+      "popularity": "Popular",
+      "gender": "Unisex"
+    },
+    {
+      "name": "Sunshine",
+      "meaning": "Sunlight",
+      "origin": "English - from sun",
+      "personality": "Bright, warm, and cheerful. Ideal for yellow birds.",
+      "popularity": "Popular",
+      "gender": "Unisex"
+    },
+    {
+      "name": "Buddy",
+      "meaning": "Companion",
+      "origin": "American - friend",
+      "personality": "Friendly, social, and loyal. Perfect for pet birds.",
+      "popularity": "Very popular",
+      "gender": "Male"
+    },
+    {
+      "name": "Daisy",
+      "meaning": "Day's eye",
+      "origin": "English - flower name",
+      "personality": "Sweet, innocent, and cheerful. Great for gentle birds.",
+      "popularity": "Popular",
+      "gender": "Female"
+    },
+    {
+      "name": "Rocky",
+      "meaning": "Rock-like",
+      "origin": "English - strong",
+      "personality": "Tough, determined, and strong. Ideal for resilient birds.",
+      "popularity": "Popular",
+      "gender": "Male"
+    },
+    {
+      "name": "Rosie",
+      "meaning": "Rose",
+      "origin": "Latin - from Rosa",
+      "personality": "Sweet, beautiful, and cheerful. Perfect for lovely birds.",
+      "popularity": "Popular",
+      "gender": "Female"
+    },
+    {
+      "name": "Buddy",
+      "meaning": "Friend",
+      "origin": "American - pal",
+      "personality": "Friendly, loyal, and affectionate. Great for social birds.",
+      "popularity": "Very popular",
+      "gender": "Male"
+    },
+    {
+      "name": "Princess",
+      "meaning": "Royal daughter",
+      "origin": "English - royal title",
+      "personality": "Regal, pampered, and elegant. Ideal for spoiled birds.",
+      "popularity": "Popular",
+      "gender": "Female"
+    },
+    {
+      "name": "Max",
+      "meaning": "Greatest",
+      "origin": "Latin - from Maximus",
+      "personality": "Confident, strong, and bold. Perfect for dominant birds.",
+      "popularity": "Very popular",
+      "gender": "Male"
+    },
+    {
+      "name": "Bella",
+      "meaning": "Beautiful",
+      "origin": "Italian - feminine form",
+      "personality": "Graceful, elegant, and charming. Great for beautiful birds.",
+      "popularity": "Very popular",
+      "gender": "Female"
+    },
+    {
+      "name": "Jack",
+      "meaning": "God is gracious",
+      "origin": "English - from John",
+      "personality": "Energetic, playful, and spirited. Ideal for active birds.",
+      "popularity": "Popular",
+      "gender": "Male"
+    },
+    {
+      "name": "Ruby",
+      "meaning": "Red precious stone",
+      "origin": "Latin - from ruber",
+      "personality": "Precious, vibrant, and valuable. Perfect for red birds.",
+      "popularity": "Popular",
+      "gender": "Female"
+    },
+    {
+      "name": "Oscar",
+      "meaning": "God spear",
+      "origin": "Irish/Norse - warrior",
+      "personality": "Brave, strong, and protective. Great for courageous birds.",
+      "popularity": "Popular",
+      "gender": "Male"
+    },
+    {
+      "name": "Lily",
+      "meaning": "Pure flower",
+      "origin": "Latin - from lilium",
+      "personality": "Pure, innocent, and beautiful. Ideal for white birds.",
+      "popularity": "Popular",
+      "gender": "Female"
+    },
+    {
+      "name": "Buddy",
+      "meaning": "Friend",
+      "origin": "American - companion",
+      "personality": "Friendly, loyal, and social. Perfect for pet birds.",
+      "popularity": "Very popular",
+      "gender": "Male"
+    },
+    {
+      "name": "Cleo",
+      "meaning": "Glory",
+      "origin": "Greek - short for Cleopatra",
+      "personality": "Regal, proud, and commanding. Great for dominant birds.",
+      "popularity": "Popular",
+      "gender": "Female"
+    },
+    {
+      "name": "Jasper",
+      "meaning": "Treasurer",
+      "origin": "Persian - precious stone",
+      "personality": "Valuable, loyal, and protective. Ideal for guardian birds.",
+      "popularity": "Popular",
+      "gender": "Male"
+    },
+    {
+      "name": "Gracie",
+      "meaning": "Grace",
+      "origin": "Latin - from gratia",
+      "personality": "Graceful, elegant, and charming. Perfect for refined birds.",
+      "popularity": "Popular",
+      "gender": "Female"
+    },
+    {
+      "name": "Oliver",
+      "meaning": "Olive tree",
+      "origin": "Latin - symbol of peace",
+      "personality": "Peaceful, gentle, and friendly. Great for calm birds.",
+      "popularity": "Popular",
+      "gender": "Male"
+    },
+    {
+      "name": "Sophie",
+      "meaning": "Wisdom",
+      "origin": "Greek - from Sophia",
+      "personality": "Intelligent, graceful, and refined. Ideal for smart birds.",
+      "popularity": "Popular",
+      "gender": "Female"
+    },
+    {
+      "name": "Charlie",
+      "meaning": "Free man",
+      "origin": "English - from Charles",
+      "personality": "Friendly, talkative, and social. Perfect for parrots.",
+      "popularity": "Very popular",
+      "gender": "Unisex"
+    },
+    {
+      "name": "Misty",
+      "meaning": "Covered with mist",
+      "origin": "English - from mist",
+      "personality": "Soft, gentle, and mysterious. Great for gray birds.",
+      "popularity": "Popular",
+      "gender": "Female"
+    },
+    {
+      "name": "Buddy",
+      "meaning": "Friend",
+      "origin": "American - pal",
+      "personality": "Friendly, loyal, and affectionate. Ideal for companion birds.",
+      "popularity": "Very popular",
+      "gender": "Male"
+    }
+  ],
+  "fish": [
+    {
+      "name": "Bubbles",
+      "meaning": "Air in water",
+      "origin": "English - perfect for aquarium dwellers",
+      "personality": "Playful, bubbly, and cheerful. Great for fish who blow bubbles.",
+      "popularity": "Very popular",
+      "gender": "Unisex"
+    },
+    {
+      "name": "Nemo",
+      "meaning": "Nobody",
+      "origin": "Latin - famous clownfish from Finding Nemo",
+      "personality": "Adventurous, brave, and curious. Perfect for orange and white clownfish.",
+      "popularity": "Extremely popular",
+      "gender": "Male"
+    },
+    {
+      "name": "Dory",
+      "meaning": "Gift",
+      "origin": "Greek - beloved blue tang fish",
+      "personality": "Forgetful, friendly, and optimistic. Ideal for blue tang fish.",
+      "popularity": "Very popular",
+      "gender": "Female"
+    },
+    {
+      "name": "Marlin",
+      "meaning": "Swordfish",
+      "origin": "English - protective father fish",
+      "personality": "Protective, cautious, and loving. Great for larger fish.",
+      "popularity": "Popular",
+      "gender": "Male"
+    },
+    {
+      "name": "Gulden",
+      "meaning": "Golden",
+      "origin": "Dutch - as in Goldfish crackers",
+      "personality": "Shiny, precious, and valuable. Perfect for goldfish.",
+      "popularity": "Moderate",
+      "gender": "Unisex"
+    },
+    {
+      "name": "Sushi",
+      "meaning": "Sour rice",
+      "origin": "Japanese - popular food reference",
+      "personality": "Quirky, fun, and ironic. Ideal for fish with a sense of humor.",
+      "popularity": "Popular",
+      "gender": "Unisex"
+    },
+    {
+      "name": "Ariel",
+      "meaning": "Lion of God",
+      "origin": "Hebrew - little mermaid protagonist",
+      "personality": "Curious, adventurous, and dreamy. Great for red-colored fish.",
+      "popularity": "Very popular",
+      "gender": "Female"
+    },
+    {
+      "name": "Flounder",
+      "meaning": "Flatfish",
+      "origin": "English - bottom-dwelling fish",
+      "personality": "Loyal, nervous, and supportive. Perfect for yellow and blue fish.",
+      "popularity": "Popular",
+      "gender": "Male"
+    },
+    {
+      "name": "Sunny",
+      "meaning": "Bright",
+      "origin": "English - light and cheerful",
+      "personality": "Bright, warm, and cheerful. Ideal for yellow or orange fish.",
+      "popularity": "Very popular",
+      "gender": "Unisex"
+    },
+    {
+      "name": "Poseidon",
+      "meaning": "Earth-shaker",
+      "origin": "Greek mythology - god of the sea",
+      "personality": "Powerful, majestic, and commanding. Great for large, impressive fish.",
+      "popularity": "Popular",
+      "gender": "Male"
+    },
+    {
+      "name": "Neptune",
+      "meaning": "God of freshwater",
+      "origin": "Roman mythology - god of the sea",
+      "personality": "Regal, powerful, and oceanic. Perfect for dominant fish.",
+      "popularity": "Popular",
+      "gender": "Male"
+    },
+    {
+      "name": "Coral",
+      "meaning": "Precious stone",
+      "origin": "Latin - colorful sea creature",
+      "personality": "Colorful, delicate, and beautiful. Ideal for coral-colored fish.",
+      "popularity": "Popular",
+      "gender": "Female"
+    },
+    {
+      "name": "Finley",
+      "meaning": "Fair warrior",
+      "origin": "Scottish - fish-related pun",
+      "personality": "Brave, strong, and playful. Great for active swimmers.",
+      "popularity": "Popular",
+      "gender": "Unisex"
+    },
+    {
+      "name": "Splash",
+      "meaning": "Water movement",
+      "origin": "English - natural aquatic reference",
+      "personality": "Energetic, playful, and active. Perfect for fish who splash around.",
+      "popularity": "Very popular",
+      "gender": "Unisex"
+    },
+    {
+      "name": "Aquaman",
+      "meaning": "Water person",
+      "origin": "English - superhero of the sea",
+      "personality": "Heroic, strong, and aquatic. Ideal for impressive male fish.",
+      "popularity": "Moderate",
+      "gender": "Male"
+    },
+    {
+      "name": "Sebastian",
+      "meaning": "Venerable",
+      "origin": "Greek - crab from The Little Mermaid",
+      "personality": "Musical, wise, and Caribbean. Great for red fish.",
+      "popularity": "Popular",
+      "gender": "Male"
+    },
+    {
+      "name": "Bait",
+      "meaning": "Fish food",
+      "origin": "English - fishing reference",
+      "personality": "Ironic, funny, and brave. Perfect for small feeder fish.",
+      "popularity": "Moderate",
+      "gender": "Unisex"
+    },
+    {
+      "name": "Scaley",
+      "meaning": "Covered in scales",
+      "origin": "English - fish characteristic",
+      "personality": "Textured, shiny, and distinctive. Ideal for fish with prominent scales.",
+      "popularity": "Moderate",
+      "gender": "Unisex"
+    },
+    {
+      "name": "Siren",
+      "meaning": "Sea nymph",
+      "origin": "Greek mythology - enchanting creature",
+      "personality": "Enchanting, mysterious, and alluring. Great for beautiful fish.",
+      "popularity": "Moderate",
+      "gender": "Female"
+    },
+    {
+      "name": "Triton",
+      "meaning": "Third",
+      "origin": "Greek mythology - messenger of the sea",
+      "personality": "Powerful, royal, and oceanic. Perfect for majestic fish.",
+      "popularity": "Moderate",
+      "gender": "Male"
+    },
+    {
+      "name": "Goldie",
+      "meaning": "Golden colored",
+      "origin": "English - from gold",
+      "personality": "Shiny, precious, and valuable. Perfect for goldfish.",
+      "popularity": "Very popular",
+      "gender": "Unisex"
+    },
+    {
+      "name": "Finn",
+      "meaning": "Fair or white",
+      "origin": "Irish - also means fin",
+      "personality": "Adventurous, brave, and aquatic. Great for any fish.",
+      "popularity": "Popular",
+      "gender": "Male"
+    },
+    {
+      "name": "Angel",
+      "meaning": "Messenger",
+      "origin": "Greek - from angelos",
+      "personality": "Sweet, gentle, and graceful. Ideal for angelfish.",
+      "popularity": "Popular",
+      "gender": "Female"
+    },
+    {
+      "name": "Blue",
+      "meaning": "Color of water",
+      "origin": "English - from the color",
+      "personality": "Cool, calm, and aquatic. Perfect for blue fish.",
+      "popularity": "Popular",
+      "gender": "Unisex"
+    },
+    {
+      "name": "Spike",
+      "meaning": "Sharp point",
+      "origin": "English - from spike",
+      "personality": "Spiky, defensive, and unique. Great for pufferfish.",
+      "popularity": "Popular",
+      "gender": "Male"
+    },
+    {
+      "name": "Pearl",
+      "meaning": "Precious gem",
+      "origin": "Latin - from perla",
+      "personality": "Precious, beautiful, and rare. Ideal for white fish.",
+      "popularity": "Popular",
+      "gender": "Female"
+    },
+    {
+      "name": "Flash",
+      "meaning": "Quick burst of light",
+      "origin": "English - from flash",
+      "personality": "Fast, bright, and energetic. Perfect for quick fish.",
+      "popularity": "Popular",
+      "gender": "Male"
+    },
+    {
+      "name": "Crystal",
+      "meaning": "Clear ice",
+      "origin": "Greek - from krystallos",
+      "personality": "Clear, pure, and beautiful. Great for transparent fish.",
+      "popularity": "Popular",
+      "gender": "Female"
+    },
+    {
+      "name": "Jaws",
+      "meaning": "Mouth parts",
+      "origin": "English - from the movie",
+      "personality": "Fierce, strong, and memorable. Ideal for aggressive fish.",
+      "popularity": "Popular",
+      "gender": "Male"
+    },
+    {
+      "name": "Jewel",
+      "meaning": "Precious stone",
+      "origin": "French - from jouel",
+      "personality": "Precious, colorful, and valuable. Perfect for colorful fish.",
+      "popularity": "Popular",
+      "gender": "Female"
+    },
+    {
+      "name": "Captain",
+      "meaning": "Leader",
+      "origin": "Latin - from caput",
+      "personality": "Commanding, brave, and nautical. Great for dominant fish.",
+      "popularity": "Popular",
+      "gender": "Male"
+    },
+    {
+      "name": "Misty",
+      "meaning": "Covered with mist",
+      "origin": "English - from mist",
+      "personality": "Soft, gentle, and mysterious. Ideal for pale fish.",
+      "popularity": "Popular",
+      "gender": "Female"
+    },
+    {
+      "name": "Buddy",
+      "meaning": "Friend",
+      "origin": "American - companion",
+      "personality": "Friendly, social, and loyal. Perfect for community fish.",
+      "popularity": "Very popular",
+      "gender": "Male"
+    },
+    {
+      "name": "Sunny",
+      "meaning": "Bright like sun",
+      "origin": "English - from sun",
+      "personality": "Bright, warm, and cheerful. Great for yellow fish.",
+      "popularity": "Very popular",
+      "gender": "Unisex"
+    },
+    {
+      "name": "Oscar",
+      "meaning": "God spear",
+      "origin": "Irish/Norse - warrior",
+      "personality": "Brave, strong, and territorial. Ideal for Oscar fish.",
+      "popularity": "Very popular",
+      "gender": "Male"
+    },
+    {
+      "name": "Guppy",
+      "meaning": "Small fish",
+      "origin": "English - fish species",
+      "personality": "Small, colorful, and lively. Perfect for guppies.",
+      "popularity": "Popular",
+      "gender": "Unisex"
+    },
+    {
+      "name": "Moby",
+      "meaning": "From Moby Dick",
+      "origin": "Literature - famous whale",
+      "personality": "Large, legendary, and powerful. Great for big fish.",
+      "popularity": "Popular",
+      "gender": "Male"
+    },
+    {
+      "name": "Rainbow",
+      "meaning": "Colorful arc",
+      "origin": "English - from rainbow",
+      "personality": "Colorful, beautiful, and diverse. Ideal for colorful fish.",
+      "popularity": "Popular",
+      "gender": "Unisex"
+    },
+    {
+      "name": "Shark",
+      "meaning": "Predatory fish",
+      "origin": "English - from the animal",
+      "personality": "Fierce, strong, and predatory. Perfect for aggressive fish.",
+      "popularity": "Popular",
+      "gender": "Male"
+    },
+    {
+      "name": "Shimmer",
+      "meaning": "Soft glow",
+      "origin": "English - from shimmer",
+      "personality": "Shiny, beautiful, and graceful. Great for shimmery fish.",
+      "popularity": "Popular",
+      "gender": "Female"
+    },
+    {
+      "name": "Skipper",
+      "meaning": "Ship captain",
+      "origin": "Dutch - from schipper",
+      "personality": "Nautical, adventurous, and leading. Ideal for active fish.",
+      "popularity": "Popular",
+      "gender": "Male"
+    },
+    {
+      "name": "Starfish",
+      "meaning": "Star-shaped sea creature",
+      "origin": "English - from the animal",
+      "personality": "Unique, star-like, and special. Perfect for unique fish.",
+      "popularity": "Moderate",
+      "gender": "Unisex"
+    },
+    {
+      "name": "Swimmer",
+      "meaning": "One who swims",
+      "origin": "English - from swim",
+      "personality": "Active, athletic, and aquatic. Great for fast swimmers.",
+      "popularity": "Moderate",
+      "gender": "Unisex"
+    },
+    {
+      "name": "Tango",
+      "meaning": "Dance",
+      "origin": "Spanish - from tango",
+      "personality": "Graceful, rhythmic, and elegant. Ideal for graceful fish.",
+      "popularity": "Moderate",
+      "gender": "Male"
+    },
+    {
+      "name": "Wave",
+      "meaning": "Water movement",
+      "origin": "English - from wave",
+      "personality": "Flowing, graceful, and aquatic. Perfect for flowing fish.",
+      "popularity": "Moderate",
+      "gender": "Unisex"
+    },
+    {
+      "name": "Zippy",
+      "meaning": "Fast moving",
+      "origin": "English - from zip",
+      "personality": "Fast, energetic, and lively. Great for quick fish.",
+      "popularity": "Moderate",
+      "gender": "Unisex"
+    },
+    {
+      "name": "Anchor",
+      "meaning": "Ship stabilizer",
+      "origin": "Greek - from ankura",
+      "personality": "Stable, grounded, and nautical. Ideal for bottom dwellers.",
+      "popularity": "Moderate",
+      "gender": "Male"
+    },
+    {
+      "name": "Bubba",
+      "meaning": "Brother",
+      "origin": "American - nickname",
+      "personality": "Friendly, laid-back, and southern. Perfect for large fish.",
+      "popularity": "Popular",
+      "gender": "Male"
+    },
+    {
+      "name": "Comet",
+      "meaning": "Celestial body",
+      "origin": "Greek - from kometes",
+      "personality": "Fast, bright, and streaking. Great for fast swimmers.",
+      "popularity": "Popular",
+      "gender": "Unisex"
+    },
+    {
+      "name": "Echo",
+      "meaning": "Sound reflection",
+      "origin": "Greek - from ekho",
+      "personality": "Mysterious, repeating, and aquatic. Ideal for unique fish.",
+      "popularity": "Popular",
+      "gender": "Unisex"
+    }
+  ],
+  "bunny": [
+    {
+      "name": "Thumper",
+      "meaning": "One who thumps",
+      "origin": "Disney - Bambi's rabbit friend who thumps his foot",
+      "personality": "Energetic, playful, and expressive. Perfect for bunnies who thump their feet.",
+      "popularity": "Very popular",
+      "gender": "Male"
+    },
+    {
+      "name": "Oreo",
+      "meaning": "Black and white cookie",
+      "origin": "English - perfect for black and white bunnies",
+      "personality": "Sweet, distinctive, and adorable. Ideal for tuxedo-patterned bunnies.",
+      "popularity": "Very popular",
+      "gender": "Unisex"
+    },
+    {
+      "name": "Bun",
+      "meaning": "Short for bunny",
+      "origin": "English - simple and direct name",
+      "personality": "Simple, cute, and straightforward. Great for any bunny.",
+      "popularity": "Popular",
+      "gender": "Unisex"
+    },
+    {
+      "name": "Coco",
+      "meaning": "Chocolate",
+      "origin": "Spanish - play on chocolate for brown bunnies",
+      "personality": "Sweet, rich, and warm. Perfect for brown or chocolate-colored bunnies.",
+      "popularity": "Very popular",
+      "gender": "Unisex"
+    },
+    {
+      "name": "Daisy",
+      "meaning": "Flower",
+      "origin": "English - pretty white flower name",
+      "personality": "Sweet, innocent, and gentle. Ideal for white or light-colored bunnies.",
+      "popularity": "Very popular",
+      "gender": "Female"
+    },
+    {
+      "name": "Bunny",
+      "meaning": "Rabbit",
+      "origin": "English - when in doubt, keep it simple",
+      "personality": "Classic, traditional, and unmistakable. Perfect for any rabbit.",
+      "popularity": "Extremely popular",
+      "gender": "Unisex"
+    },
+    {
+      "name": "Cinnabun",
+      "meaning": "Cinnamon roll",
+      "origin": "English - punny name for a sweet bunny",
+      "personality": "Sweet, warm, and delicious. Great for cinnamon-colored bunnies.",
+      "popularity": "Popular",
+      "gender": "Unisex"
+    },
+    {
+      "name": "Snowball",
+      "meaning": "White ball",
+      "origin": "English - classic white rabbit name",
+      "personality": "Pure, fluffy, and white. Perfect for white bunnies.",
+      "popularity": "Very popular",
+      "gender": "Unisex"
+    },
+    {
+      "name": "Bugs",
+      "meaning": "Mischief",
+      "origin": "English - after the famous cartoon character",
+      "personality": "Clever, mischievous, and funny. Ideal for smart, playful bunnies.",
+      "popularity": "Very popular",
+      "gender": "Male"
+    },
+    {
+      "name": "Marshmallow",
+      "meaning": "Soft and fluffy treat",
+      "origin": "English - soft and fluffy like your bunny",
+      "personality": "Soft, sweet, and cuddly. Great for extra fluffy bunnies.",
+      "popularity": "Very popular",
+      "gender": "Unisex"
+    },
+    {
+      "name": "Midnight",
+      "meaning": "Middle of the night",
+      "origin": "English - appropriate for black-furred bunnies",
+      "personality": "Dark, mysterious, and elegant. Perfect for black bunnies.",
+      "popularity": "Popular",
+      "gender": "Unisex"
+    },
+    {
+      "name": "Angel",
+      "meaning": "Divine being",
+      "origin": "English - for a supernatural being of grace and beauty",
+      "personality": "Gentle, pure, and heavenly. Ideal for well-behaved bunnies.",
+      "popularity": "Popular",
+      "gender": "Unisex"
+    },
+    {
+      "name": "Cloud",
+      "meaning": "Sky formation",
+      "origin": "English - for light, fluffy bunnies",
+      "personality": "Soft, fluffy, and dreamy. Great for white, fluffy bunnies.",
+      "popularity": "Popular",
+      "gender": "Unisex"
+    },
+    {
+      "name": "Hopper",
+      "meaning": "One who hops",
+      "origin": "English - apt description of any rabbit",
+      "personality": "Energetic, bouncy, and active. Perfect for bunnies who love to hop.",
+      "popularity": "Very popular",
+      "gender": "Unisex"
+    },
+    {
+      "name": "Twitch",
+      "meaning": "Quick movement",
+      "origin": "English - refers to a rabbit's twitching behavior",
+      "personality": "Alert, quick, and observant. Ideal for bunnies with twitchy noses.",
+      "popularity": "Moderate",
+      "gender": "Unisex"
+    },
+    {
+      "name": "Binky",
+      "meaning": "Happy jump",
+      "origin": "English - refers to a rabbit's joyful jumping behavior",
+      "personality": "Joyful, playful, and expressive. Great for happy bunnies who binky.",
+      "popularity": "Popular",
+      "gender": "Unisex"
+    },
+    {
+      "name": "Scamper",
+      "meaning": "Move quickly",
+      "origin": "English - for nimble and playful rabbits",
+      "personality": "Quick, playful, and energetic. Perfect for fast-moving bunnies.",
+      "popularity": "Moderate",
+      "gender": "Unisex"
+    },
+    {
+      "name": "Popcorn",
+      "meaning": "Popping kernels",
+      "origin": "English - references a rabbit's energetic hops",
+      "personality": "Bouncy, energetic, and fun. Ideal for bunnies who jump around.",
+      "popularity": "Popular",
+      "gender": "Unisex"
+    },
+    {
+      "name": "Fluffy",
+      "meaning": "Soft and furry",
+      "origin": "English - perfect for bunnies with extra soft fur",
+      "personality": "Soft, cuddly, and adorable. Great for long-haired bunnies.",
+      "popularity": "Very popular",
+      "gender": "Unisex"
+    },
+    {
+      "name": "Cottonball",
+      "meaning": "Soft white ball",
+      "origin": "English - for white bunnies mistaken for clouds of fluff",
+      "personality": "Soft, white, and fluffy. Perfect for white, fluffy bunnies.",
+      "popularity": "Popular",
+      "gender": "Unisex"
+    },
+    {
+      "name": "Pancake",
+      "meaning": "Flat breakfast item",
+      "origin": "English - sweet, fluffy and golden brown like your bunny",
+      "personality": "Flat, relaxed, and sweet. Ideal for bunnies who flatten out when relaxing.",
+      "popularity": "Moderate",
+      "gender": "Unisex"
+    },
+    {
+      "name": "Patches",
+      "meaning": "Different colored areas",
+      "origin": "English - for bunnies with differently colored patches of fur",
+      "personality": "Unique, colorful, and distinctive. Great for multi-colored bunnies.",
+      "popularity": "Popular",
+      "gender": "Unisex"
+    },
+    {
+      "name": "Peter",
+      "meaning": "Rock",
+      "origin": "Greek - from Petros, famous rabbit from Beatrix Potter",
+      "personality": "Adventurous, mischievous, and brave. Perfect for curious bunnies.",
+      "popularity": "Very popular",
+      "gender": "Male"
+    },
+    {
+      "name": "Clover",
+      "meaning": "Meadow flower",
+      "origin": "English - from the plant",
+      "personality": "Lucky, sweet, and natural. Great for gentle bunnies.",
+      "popularity": "Popular",
+      "gender": "Female"
+    },
+    {
+      "name": "Cottontail",
+      "meaning": "White fluffy tail",
+      "origin": "English - rabbit characteristic",
+      "personality": "Fluffy, soft, and adorable. Ideal for white-tailed bunnies.",
+      "popularity": "Popular",
+      "gender": "Unisex"
+    },
+    {
+      "name": "Flopsy",
+      "meaning": "Floppy",
+      "origin": "English - from Beatrix Potter",
+      "personality": "Soft, gentle, and floppy-eared. Perfect for lop-eared bunnies.",
+      "popularity": "Popular",
+      "gender": "Female"
+    },
+    {
+      "name": "Mopsy",
+      "meaning": "Mop-like",
+      "origin": "English - from Beatrix Potter",
+      "personality": "Fluffy, soft, and adorable. Great for fluffy bunnies.",
+      "popularity": "Popular",
+      "gender": "Female"
+    },
+    {
+      "name": "Trixie",
+      "meaning": "Bringer of joy",
+      "origin": "Latin - from Beatrix",
+      "personality": "Joyful, playful, and happy. Ideal for cheerful bunnies.",
+      "popularity": "Popular",
+      "gender": "Female"
+    },
+    {
+      "name": "Harvey",
+      "meaning": "Battle worthy",
+      "origin": "French - also famous invisible rabbit",
+      "personality": "Friendly, gentle, and famous. Perfect for large bunnies.",
+      "popularity": "Popular",
+      "gender": "Male"
+    },
+    {
+      "name": "Roger",
+      "meaning": "Famous spear",
+      "origin": "German - also Roger Rabbit",
+      "personality": "Funny, energetic, and cartoon-like. Great for playful bunnies.",
+      "popularity": "Popular",
+      "gender": "Male"
+    },
+    {
+      "name": "Velvet",
+      "meaning": "Soft fabric",
+      "origin": "English - from velvet",
+      "personality": "Soft, luxurious, and smooth. Ideal for soft-furred bunnies.",
+      "popularity": "Popular",
+      "gender": "Female"
+    },
+    {
+      "name": "Whisper",
+      "meaning": "Soft sound",
+      "origin": "English - from whisper",
+      "personality": "Quiet, gentle, and soft. Perfect for calm bunnies.",
+      "popularity": "Moderate",
+      "gender": "Unisex"
+    },
+    {
+      "name": "Nibbler",
+      "meaning": "One who nibbles",
+      "origin": "English - from nibble",
+      "personality": "Cute, hungry, and playful. Great for food-loving bunnies.",
+      "popularity": "Popular",
+      "gender": "Unisex"
+    },
+    {
+      "name": "Clementine",
+      "meaning": "Merciful",
+      "origin": "Latin - also a citrus fruit",
+      "personality": "Sweet, gentle, and orange-colored. Ideal for orange bunnies.",
+      "popularity": "Moderate",
+      "gender": "Female"
+    },
+    {
+      "name": "Dusty",
+      "meaning": "Covered in dust",
+      "origin": "English - from dust",
+      "personality": "Soft, muted, and gentle. Perfect for gray bunnies.",
+      "popularity": "Popular",
+      "gender": "Unisex"
+    },
+    {
+      "name": "Honey",
+      "meaning": "Sweet nectar",
+      "origin": "English - from honey",
+      "personality": "Sweet, loving, and golden. Great for affectionate bunnies.",
+      "popularity": "Popular",
+      "gender": "Female"
+    },
+    {
+      "name": "Jasper",
+      "meaning": "Treasurer",
+      "origin": "Persian - precious stone",
+      "personality": "Valuable, loyal, and protective. Ideal for guardian bunnies.",
+      "popularity": "Popular",
+      "gender": "Male"
+    },
+    {
+      "name": "Latte",
+      "meaning": "Coffee with milk",
+      "origin": "Italian - from caff\u00e8 latte",
+      "personality": "Warm, creamy, and sweet. Perfect for brown and white bunnies.",
+      "popularity": "Moderate",
+      "gender": "Unisex"
+    },
+    {
+      "name": "Maple",
+      "meaning": "Maple tree",
+      "origin": "English - from the tree",
+      "personality": "Sweet, natural, and warm. Great for brown bunnies.",
+      "popularity": "Popular",
+      "gender": "Female"
+    },
+    {
+      "name": "Nugget",
+      "meaning": "Small lump",
+      "origin": "English - from nugget",
+      "personality": "Small, precious, and golden. Ideal for small bunnies.",
+      "popularity": "Popular",
+      "gender": "Unisex"
+    },
+    {
+      "name": "Peanut",
+      "meaning": "Small nut",
+      "origin": "English - from peanut",
+      "personality": "Small, cute, and nutty. Perfect for tiny bunnies.",
+      "popularity": "Very popular",
+      "gender": "Unisex"
+    },
+    {
+      "name": "Pepper",
+      "meaning": "Hot spice",
+      "origin": "English - from pepper",
+      "personality": "Spicy, energetic, and feisty. Great for lively bunnies.",
+      "popularity": "Popular",
+      "gender": "Unisex"
+    },
+    {
+      "name": "Pumpkin",
+      "meaning": "Orange squash",
+      "origin": "Greek - from pepon",
+      "personality": "Sweet, round, and orange. Ideal for orange bunnies.",
+      "popularity": "Popular",
+      "gender": "Unisex"
+    },
+    {
+      "name": "Shadow",
+      "meaning": "Dark silhouette",
+      "origin": "English - from shade",
+      "personality": "Loyal, following, and mysterious. Perfect for dark bunnies.",
+      "popularity": "Popular",
+      "gender": "Unisex"
+    },
+    {
+      "name": "Smokey",
+      "meaning": "Gray like smoke",
+      "origin": "English - from smoke",
+      "personality": "Mysterious, soft, and gentle. Great for gray bunnies.",
+      "popularity": "Popular",
+      "gender": "Unisex"
+    },
+    {
+      "name": "Sugar",
+      "meaning": "Sweet substance",
+      "origin": "Sanskrit - from sharkara",
+      "personality": "Sweet, loving, and white. Ideal for white bunnies.",
+      "popularity": "Popular",
+      "gender": "Female"
+    },
+    {
+      "name": "Toffee",
+      "meaning": "Sweet candy",
+      "origin": "English - from toffee",
+      "personality": "Sweet, sticky, and brown. Perfect for brown bunnies.",
+      "popularity": "Moderate",
+      "gender": "Unisex"
+    },
+    {
+      "name": "Truffle",
+      "meaning": "Chocolate candy",
+      "origin": "French - from truffe",
+      "personality": "Sweet, rich, and precious. Great for dark bunnies.",
+      "popularity": "Moderate",
+      "gender": "Unisex"
+    },
+    {
+      "name": "Vanilla",
+      "meaning": "Vanilla bean",
+      "origin": "Spanish - from vainilla",
+      "personality": "Sweet, classic, and white. Ideal for white bunnies.",
+      "popularity": "Moderate",
+      "gender": "Female"
+    },
+    {
+      "name": "Waffles",
+      "meaning": "Breakfast food",
+      "origin": "Dutch - from wafel",
+      "personality": "Sweet, warm, and golden. Perfect for golden bunnies.",
+      "popularity": "Moderate",
+      "gender": "Unisex"
+    }
+  ],
+  "lizard": [
+    {
+      "name": "Smaug",
+      "meaning": "Dragon from The Hobbit",
+      "origin": "Literature - massive dragon from Tolkien's works",
+      "personality": "Fierce, territorial, and majestic. Perfect for large, impressive lizards.",
+      "popularity": "Popular",
+      "gender": "Male"
+    },
+    {
+      "name": "Spyro",
+      "meaning": "Adventurous dragon",
+      "origin": "Video games - titular purple dragon from game series",
+      "personality": "Adventurous, brave, and friendly. Ideal for purple or colorful lizards.",
+      "popularity": "Popular",
+      "gender": "Male"
+    },
+    {
+      "name": "Mushu",
+      "meaning": "Dragon from Mulan",
+      "origin": "Disney - little red dragon from Disney's Mulan",
+      "personality": "Funny, loyal, and protective. Great for small, red lizards.",
+      "popularity": "Popular",
+      "gender": "Male"
+    },
+    {
+      "name": "Rango",
+      "meaning": "Adventurous chameleon",
+      "origin": "Movies - animated chameleon protagonist from 2011 film",
+      "personality": "Quirky, brave, and theatrical. Perfect for chameleons.",
+      "popularity": "Moderate",
+      "gender": "Male"
+    },
+    {
+      "name": "Pascal",
+      "meaning": "Loyal chameleon",
+      "origin": "Disney - Rapunzel's pet chameleon from Tangled",
+      "personality": "Loyal, expressive, and supportive. Ideal for chameleons.",
+      "popularity": "Popular",
+      "gender": "Male"
+    },
+    {
+      "name": "Geico",
+      "meaning": "Insurance gecko",
+      "origin": "Pop culture - the insurance company's adorable gecko mascot",
+      "personality": "Charming, talkative, and memorable. Great for geckos.",
+      "popularity": "Popular",
+      "gender": "Male"
+    },
+    {
+      "name": "Gex",
+      "meaning": "Smooth-talking gecko",
+      "origin": "Video games - anthropomorphic gecko from video game series",
+      "personality": "Cool, witty, and pop-culture savvy. Perfect for geckos.",
+      "popularity": "Moderate",
+      "gender": "Male"
+    },
+    {
+      "name": "Godzilla",
+      "meaning": "Legendary monster",
+      "origin": "Pop culture - famous giant reptilian creature from films",
+      "personality": "Powerful, destructive, and legendary. Ideal for large lizards.",
+      "popularity": "Very popular",
+      "gender": "Male"
+    },
+    {
+      "name": "Rex",
+      "meaning": "King",
+      "origin": "Latin - toy dinosaur from Toy Story",
+      "personality": "Anxious, friendly, and lovable. Great for any lizard.",
+      "popularity": "Very popular",
+      "gender": "Male"
+    },
+    {
+      "name": "Reptar",
+      "meaning": "Big green dinosaur",
+      "origin": "TV - the dinosaur from Rugrats",
+      "personality": "Fierce-looking but friendly. Perfect for green lizards.",
+      "popularity": "Popular",
+      "gender": "Male"
+    },
+    {
+      "name": "Bowser",
+      "meaning": "Fierce king",
+      "origin": "Video games - King Koopa from Super Mario series",
+      "personality": "Tough, territorial, and commanding. Ideal for spiky lizards.",
+      "popularity": "Popular",
+      "gender": "Male"
+    },
+    {
+      "name": "Charmander",
+      "meaning": "Fire lizard",
+      "origin": "Pop culture - fire-type Pok\u00e9mon",
+      "personality": "Fiery, loyal, and evolving. Great for orange lizards.",
+      "popularity": "Very popular",
+      "gender": "Male"
+    },
+    {
+      "name": "Charmeleon",
+      "meaning": "Flame lizard",
+      "origin": "Pop culture - evolved form of Charmander Pok\u00e9mon",
+      "personality": "Temperamental, strong, and fiery. Perfect for red lizards.",
+      "popularity": "Popular",
+      "gender": "Male"
+    },
+    {
+      "name": "Charizard",
+      "meaning": "Flame dragon",
+      "origin": "Pop culture - final evolved form of Charmander Pok\u00e9mon",
+      "personality": "Powerful, majestic, and fierce. Ideal for large, impressive lizards.",
+      "popularity": "Very popular",
+      "gender": "Male"
+    },
+    {
+      "name": "Blue",
+      "meaning": "Color",
+      "origin": "English - Owen Grady's favorite raptor from Jurassic World",
+      "personality": "Intelligent, loyal, and fierce. Great for blue-colored lizards.",
+      "popularity": "Popular",
+      "gender": "Female"
+    },
+    {
+      "name": "Nessie",
+      "meaning": "Loch Ness Monster",
+      "origin": "Folklore - legendary Scottish lake monster",
+      "personality": "Mysterious, elusive, and legendary. Perfect for aquatic lizards.",
+      "popularity": "Moderate",
+      "gender": "Female"
+    },
+    {
+      "name": "Sobek",
+      "meaning": "Egyptian crocodile god",
+      "origin": "Mythology - Egyptian god with crocodile head",
+      "personality": "Ancient, powerful, and protective. Ideal for crocodilian species.",
+      "popularity": "Moderate",
+      "gender": "Male"
+    },
+    {
+      "name": "Tiamat",
+      "meaning": "Sea goddess",
+      "origin": "Mythology - ancient Mesopotamian dragon goddess",
+      "personality": "Primordial, powerful, and chaotic. Great for large lizards.",
+      "popularity": "Moderate",
+      "gender": "Female"
+    },
+    {
+      "name": "Gorgon",
+      "meaning": "Snake-headed woman",
+      "origin": "Mythology - Greek mythological female creature",
+      "personality": "Fierce, intimidating, and mythical. Perfect for intimidating lizards.",
+      "popularity": "Moderate",
+      "gender": "Female"
+    },
+    {
+      "name": "Shenlong",
+      "meaning": "Thunder dragon",
+      "origin": "Mythology - Chinese dragon god of thunder",
+      "personality": "Majestic, powerful, and mystical. Ideal for impressive lizards.",
+      "popularity": "Moderate",
+      "gender": "Male"
+    },
+    {
+      "name": "Taniwha",
+      "meaning": "Maori legendary creature",
+      "origin": "Mythology - large lizard or fish-like creature in Maori mythology",
+      "personality": "Legendary, protective, and powerful. Great for large lizards.",
+      "popularity": "Moderate",
+      "gender": "Unisex"
+    },
+    {
+      "name": "Wadjet",
+      "meaning": "Egyptian snake goddess",
+      "origin": "Mythology - Egyptian cobra goddess protector of pharaohs",
+      "personality": "Protective, regal, and ancient. Perfect for snake-like lizards.",
+      "popularity": "Moderate",
+      "gender": "Female"
+    },
+    {
+      "name": "Draco",
+      "meaning": "Dragon",
+      "origin": "Latin - from draco",
+      "personality": "Fierce, powerful, and dragon-like. Perfect for large lizards.",
+      "popularity": "Very popular",
+      "gender": "Male"
+    },
+    {
+      "name": "Spike",
+      "meaning": "Sharp point",
+      "origin": "English - from spike",
+      "personality": "Spiky, defensive, and tough. Great for spiky lizards.",
+      "popularity": "Very popular",
+      "gender": "Male"
+    },
+    {
+      "name": "Scales",
+      "meaning": "Reptile skin",
+      "origin": "English - from scale",
+      "personality": "Scaly, textured, and distinctive. Ideal for all lizards.",
+      "popularity": "Popular",
+      "gender": "Unisex"
+    },
+    {
+      "name": "Iggy",
+      "meaning": "Fiery",
+      "origin": "Latin - short for Ignatius or Iguana",
+      "personality": "Fiery, energetic, and lively. Perfect for iguanas.",
+      "popularity": "Popular",
+      "gender": "Male"
+    },
+    {
+      "name": "Lizzy",
+      "meaning": "Lizard",
+      "origin": "English - from Elizabeth or lizard",
+      "personality": "Cute, friendly, and lizard-like. Great for female lizards.",
+      "popularity": "Popular",
+      "gender": "Female"
+    },
+    {
+      "name": "Toothless",
+      "meaning": "Without teeth",
+      "origin": "English - from How to Train Your Dragon",
+      "personality": "Friendly, loyal, and dragon-like. Ideal for gentle lizards.",
+      "popularity": "Popular",
+      "gender": "Male"
+    },
+    {
+      "name": "Norbert",
+      "meaning": "Bright north",
+      "origin": "German - dragon from Harry Potter",
+      "personality": "Cute, growing, and dragon-like. Perfect for young lizards.",
+      "popularity": "Moderate",
+      "gender": "Male"
+    },
+    {
+      "name": "Saphira",
+      "meaning": "Sapphire",
+      "origin": "Hebrew - dragon from Eragon",
+      "personality": "Wise, powerful, and blue. Great for blue lizards.",
+      "popularity": "Moderate",
+      "gender": "Female"
+    },
+    {
+      "name": "Puff",
+      "meaning": "Magic dragon",
+      "origin": "English - from Puff the Magic Dragon",
+      "personality": "Magical, friendly, and gentle. Ideal for gentle lizards.",
+      "popularity": "Popular",
+      "gender": "Male"
+    },
+    {
+      "name": "Drogon",
+      "meaning": "Dragon",
+      "origin": "Literature - from Game of Thrones",
+      "personality": "Fierce, powerful, and black. Perfect for dark lizards.",
+      "popularity": "Popular",
+      "gender": "Male"
+    },
+    {
+      "name": "Viserion",
+      "meaning": "Golden dragon",
+      "origin": "Literature - from Game of Thrones",
+      "personality": "Golden, majestic, and powerful. Great for golden lizards.",
+      "popularity": "Moderate",
+      "gender": "Male"
+    },
+    {
+      "name": "Rhaegal",
+      "meaning": "Green dragon",
+      "origin": "Literature - from Game of Thrones",
+      "personality": "Green, fierce, and powerful. Ideal for green lizards.",
+      "popularity": "Moderate",
+      "gender": "Male"
+    },
+    {
+      "name": "Falkor",
+      "meaning": "Luck dragon",
+      "origin": "Literature - from The NeverEnding Story",
+      "personality": "Lucky, friendly, and magical. Perfect for white lizards.",
+      "popularity": "Moderate",
+      "gender": "Male"
+    },
+    {
+      "name": "Elliot",
+      "meaning": "Dragon",
+      "origin": "Literature - from Pete's Dragon",
+      "personality": "Friendly, gentle, and green. Great for green lizards.",
+      "popularity": "Moderate",
+      "gender": "Male"
+    },
+    {
+      "name": "Maleficent",
+      "meaning": "Evil fairy",
+      "origin": "Literature - transforms into dragon",
+      "personality": "Powerful, dark, and magical. Ideal for dark lizards.",
+      "popularity": "Moderate",
+      "gender": "Female"
+    },
+    {
+      "name": "Smaug",
+      "meaning": "Treasure guardian",
+      "origin": "Literature - dragon from The Hobbit",
+      "personality": "Greedy, powerful, and golden. Perfect for large lizards.",
+      "popularity": "Popular",
+      "gender": "Male"
+    },
+    {
+      "name": "Alduin",
+      "meaning": "World eater",
+      "origin": "Video games - dragon from Skyrim",
+      "personality": "Powerful, ancient, and black. Great for dark lizards.",
+      "popularity": "Moderate",
+      "gender": "Male"
+    },
+    {
+      "name": "Paarthurnax",
+      "meaning": "Ambition overlord cruelty",
+      "origin": "Video games - wise dragon from Skyrim",
+      "personality": "Wise, ancient, and philosophical. Ideal for old lizards.",
+      "popularity": "Moderate",
+      "gender": "Male"
+    },
+    {
+      "name": "Toothless",
+      "meaning": "Night fury",
+      "origin": "Movies - dragon from How to Train Your Dragon",
+      "personality": "Loyal, playful, and black. Perfect for black lizards.",
+      "popularity": "Very popular",
+      "gender": "Male"
+    },
+    {
+      "name": "Stormfly",
+      "meaning": "Storm flyer",
+      "origin": "Movies - dragon from How to Train Your Dragon",
+      "personality": "Fast, loyal, and blue. Great for blue lizards.",
+      "popularity": "Moderate",
+      "gender": "Female"
+    },
+    {
+      "name": "Meatlug",
+      "meaning": "Heavy dragon",
+      "origin": "Movies - dragon from How to Train Your Dragon",
+      "personality": "Heavy, loyal, and gentle. Ideal for large lizards.",
+      "popularity": "Moderate",
+      "gender": "Female"
+    },
+    {
+      "name": "Hookfang",
+      "meaning": "Hooked fang",
+      "origin": "Movies - dragon from How to Train Your Dragon",
+      "personality": "Fierce, fiery, and red. Perfect for red lizards.",
+      "popularity": "Moderate",
+      "gender": "Male"
+    },
+    {
+      "name": "Barf",
+      "meaning": "Belch",
+      "origin": "Movies - dragon from How to Train Your Dragon",
+      "personality": "Gassy, funny, and unique. Great for unique lizards.",
+      "popularity": "Moderate",
+      "gender": "Male"
+    },
+    {
+      "name": "Belch",
+      "meaning": "Burp",
+      "origin": "Movies - dragon from How to Train Your Dragon",
+      "personality": "Gassy, funny, and unique. Ideal for unique lizards.",
+      "popularity": "Moderate",
+      "gender": "Male"
+    },
+    {
+      "name": "Cloudjumper",
+      "meaning": "Cloud jumper",
+      "origin": "Movies - dragon from How to Train Your Dragon",
+      "personality": "Wise, powerful, and white. Perfect for white lizards.",
+      "popularity": "Moderate",
+      "gender": "Male"
+    },
+    {
+      "name": "Valka",
+      "meaning": "Dragon rider",
+      "origin": "Movies - from How to Train Your Dragon",
+      "personality": "Brave, wise, and protective. Great for protective lizards.",
+      "popularity": "Moderate",
+      "gender": "Female"
+    },
+    {
+      "name": "Hiccup",
+      "meaning": "Small problem",
+      "origin": "Movies - dragon trainer from How to Train Your Dragon",
+      "personality": "Smart, brave, and innovative. Ideal for clever lizards.",
+      "popularity": "Moderate",
+      "gender": "Male"
+    },
+    {
+      "name": "Astrid",
+      "meaning": "Divinely beautiful",
+      "origin": "Scandinavian - warrior from How to Train Your Dragon",
+      "personality": "Brave, strong, and beautiful. Perfect for strong lizards.",
+      "popularity": "Moderate",
+      "gender": "Female"
+    }
+  ],
+  "hamster": [
+    {
+      "name": "Biscuit",
+      "meaning": "Small baked good",
+      "origin": "English - adorable food-inspired name",
+      "personality": "Sweet, small, and delightful. Perfect for golden hamsters.",
+      "popularity": "Popular",
+      "gender": "Unisex"
+    },
+    {
+      "name": "Cookie",
+      "meaning": "Sweet treat",
+      "origin": "English - classic hamster name from children's books",
+      "personality": "Sweet, lovable, and classic. Ideal for brown hamsters.",
+      "popularity": "Very popular",
+      "gender": "Unisex"
+    },
+    {
+      "name": "Duncan",
+      "meaning": "Dark warrior",
+      "origin": "Scottish - strong and distinguished name",
+      "personality": "Strong, noble, and distinguished. Great for dark-colored hamsters.",
+      "popularity": "Moderate",
+      "gender": "Male"
+    },
+    {
+      "name": "Einstein",
+      "meaning": "Genius",
+      "origin": "History - after the famous physicist",
+      "personality": "Smart, curious, and clever. Perfect for intelligent hamsters.",
+      "popularity": "Popular",
+      "gender": "Male"
+    },
+    {
+      "name": "Hamilton",
+      "meaning": "Beautiful mountain",
+      "origin": "Scottish - after both the founding father and the musical",
+      "personality": "Historical, distinguished, and memorable. Ideal for notable hamsters.",
+      "popularity": "Moderate",
+      "gender": "Male"
+    },
+    {
+      "name": "Hamlet",
+      "meaning": "Young pig",
+      "origin": "English - play on the 'ham' in hamster",
+      "personality": "Dramatic, thoughtful, and literary. Great for contemplative hamsters.",
+      "popularity": "Moderate",
+      "gender": "Male"
+    },
+    {
+      "name": "Hammy",
+      "meaning": "Diminutive of hamster",
+      "origin": "English - direct and cute hamster reference",
+      "personality": "Cute, straightforward, and lovable. Perfect for any hamster.",
+      "popularity": "Very popular",
+      "gender": "Unisex"
+    },
+    {
+      "name": "Nibbles",
+      "meaning": "Small bites",
+      "origin": "English - references a hamster's eating habits",
+      "personality": "Cute, hungry, and active. Ideal for hamsters who love to eat.",
+      "popularity": "Very popular",
+      "gender": "Unisex"
+    },
+    {
+      "name": "Cheeks",
+      "meaning": "Pouches for storing food",
+      "origin": "English - refers to hamster's characteristic cheek pouches",
+      "personality": "Adorable, food-loving, and distinctive. Great for hamsters with big cheeks.",
+      "popularity": "Very popular",
+      "gender": "Unisex"
+    },
+    {
+      "name": "Whiskers",
+      "meaning": "Facial hair",
+      "origin": "English - refers to hamster's sensory whiskers",
+      "personality": "Sensitive, alert, and classic. Perfect for hamsters with prominent whiskers.",
+      "popularity": "Very popular",
+      "gender": "Unisex"
+    },
+    {
+      "name": "Cupcake",
+      "meaning": "Sweet small cake",
+      "origin": "English - adorable food-inspired name",
+      "personality": "Sweet, small, and delightful. Ideal for cute hamsters.",
+      "popularity": "Popular",
+      "gender": "Unisex"
+    },
+    {
+      "name": "Buttercup",
+      "meaning": "Yellow flower",
+      "origin": "English - cute and classic flower name",
+      "personality": "Cheerful, bright, and sweet. Great for yellow or golden hamsters.",
+      "popularity": "Popular",
+      "gender": "Female"
+    },
+    {
+      "name": "Daisy",
+      "meaning": "White flower",
+      "origin": "English - simple and sweet flower name",
+      "personality": "Sweet, innocent, and gentle. Perfect for white or light-colored hamsters.",
+      "popularity": "Very popular",
+      "gender": "Female"
+    },
+    {
+      "name": "Ginger",
+      "meaning": "Spice or redhead",
+      "origin": "English - perfect for ginger-colored hamsters",
+      "personality": "Spicy, energetic, and warm. Ideal for orange or ginger hamsters.",
+      "popularity": "Popular",
+      "gender": "Unisex"
+    },
+    {
+      "name": "Holly",
+      "meaning": "Evergreen plant",
+      "origin": "English - festive and cheerful name",
+      "personality": "Festive, cheerful, and bright. Great for hamsters born in winter.",
+      "popularity": "Popular",
+      "gender": "Female"
+    },
+    {
+      "name": "Patches",
+      "meaning": "Different colored areas",
+      "origin": "English - for hamsters with varied fur patterns",
+      "personality": "Unique, colorful, and distinctive. Perfect for multi-colored hamsters.",
+      "popularity": "Popular",
+      "gender": "Unisex"
+    },
+    {
+      "name": "Fluffy",
+      "meaning": "Soft and furry",
+      "origin": "English - perfect for long-haired hamsters",
+      "personality": "Soft, cuddly, and adorable. Ideal for long-haired hamsters.",
+      "popularity": "Very popular",
+      "gender": "Unisex"
+    },
+    {
+      "name": "Fuzzy",
+      "meaning": "Blurred or unclear",
+      "origin": "English - cute name for small, fuzzy pets",
+      "personality": "Soft, fuzzy, and cute. Great for fluffy hamsters.",
+      "popularity": "Popular",
+      "gender": "Unisex"
+    },
+    {
+      "name": "Squeak",
+      "meaning": "Small sound",
+      "origin": "English - references the sounds hamsters make",
+      "personality": "Vocal, tiny, and expressive. Perfect for vocal hamsters.",
+      "popularity": "Very popular",
+      "gender": "Unisex"
+    },
+    {
+      "name": "Hoppy",
+      "meaning": "Full of hops",
+      "origin": "English - refers to a hamster's hopping movement",
+      "personality": "Energetic, bouncy, and playful. Ideal for active hamsters.",
+      "popularity": "Moderate",
+      "gender": "Unisex"
+    },
+    {
+      "name": "Speedy",
+      "meaning": "Fast",
+      "origin": "English - references how quickly hamsters move",
+      "personality": "Fast, energetic, and quick. Great for hamsters who run fast.",
+      "popularity": "Popular",
+      "gender": "Unisex"
+    },
+    {
+      "name": "Chewy",
+      "meaning": "Requires chewing",
+      "origin": "English - references a hamster's constant chewing",
+      "personality": "Active, busy, and industrious. Perfect for hamsters who chew everything.",
+      "popularity": "Moderate",
+      "gender": "Unisex"
+    },
+    {
+      "name": "Peanut",
+      "meaning": "Small nut",
+      "origin": "English - from peanut",
+      "personality": "Small, cute, and nutty. Perfect for tiny hamsters.",
+      "popularity": "Very popular",
+      "gender": "Unisex"
+    },
+    {
+      "name": "Oreo",
+      "meaning": "Black and white cookie",
+      "origin": "American - brand name",
+      "personality": "Sweet, distinctive, and adorable. Great for black and white hamsters.",
+      "popularity": "Very popular",
+      "gender": "Unisex"
+    },
+    {
+      "name": "Snickers",
+      "meaning": "Chocolate bar",
+      "origin": "American - brand name",
+      "personality": "Sweet, nutty, and brown. Ideal for brown hamsters.",
+      "popularity": "Popular",
+      "gender": "Unisex"
+    },
+    {
+      "name": "Marshmallow",
+      "meaning": "Soft candy",
+      "origin": "English - from marshmallow",
+      "personality": "Soft, sweet, and fluffy. Perfect for white hamsters.",
+      "popularity": "Very popular",
+      "gender": "Unisex"
+    },
+    {
+      "name": "Cinnamon",
+      "meaning": "Spice",
+      "origin": "Greek - from kinnamomon",
+      "personality": "Warm, spicy, and brown. Great for cinnamon-colored hamsters.",
+      "popularity": "Popular",
+      "gender": "Unisex"
+    },
+    {
+      "name": "Mocha",
+      "meaning": "Coffee with chocolate",
+      "origin": "Arabic - from Mocha, Yemen",
+      "personality": "Rich, warm, and brown. Ideal for brown hamsters.",
+      "popularity": "Popular",
+      "gender": "Unisex"
+    },
+    {
+      "name": "Caramel",
+      "meaning": "Burnt sugar",
+      "origin": "French - from caramel",
+      "personality": "Sweet, golden, and sticky. Perfect for golden hamsters.",
+      "popularity": "Popular",
+      "gender": "Unisex"
+    },
+    {
+      "name": "Brownie",
+      "meaning": "Chocolate cake",
+      "origin": "American - from brownie",
+      "personality": "Sweet, rich, and brown. Great for brown hamsters.",
+      "popularity": "Popular",
+      "gender": "Unisex"
+    },
+    {
+      "name": "Muffin",
+      "meaning": "Small cake",
+      "origin": "German - from muffe",
+      "personality": "Sweet, small, and adorable. Ideal for cute hamsters.",
+      "popularity": "Popular",
+      "gender": "Unisex"
+    },
+    {
+      "name": "Pudding",
+      "meaning": "Sweet dessert",
+      "origin": "English - from pudding",
+      "personality": "Sweet, soft, and cuddly. Perfect for soft hamsters.",
+      "popularity": "Popular",
+      "gender": "Unisex"
+    },
+    {
+      "name": "Toffee",
+      "meaning": "Sweet candy",
+      "origin": "English - from toffee",
+      "personality": "Sweet, sticky, and brown. Great for brown hamsters.",
+      "popularity": "Popular",
+      "gender": "Unisex"
+    },
+    {
+      "name": "Honey",
+      "meaning": "Sweet nectar",
+      "origin": "English - from honey",
+      "personality": "Sweet, loving, and golden. Ideal for golden hamsters.",
+      "popularity": "Very popular",
+      "gender": "Female"
+    },
+    {
+      "name": "Sugar",
+      "meaning": "Sweet substance",
+      "origin": "Sanskrit - from sharkara",
+      "personality": "Sweet, loving, and white. Perfect for white hamsters.",
+      "popularity": "Popular",
+      "gender": "Female"
+    },
+    {
+      "name": "Cocoa",
+      "meaning": "Chocolate powder",
+      "origin": "Spanish - from cacao",
+      "personality": "Rich, warm, and brown. Great for brown hamsters.",
+      "popularity": "Popular",
+      "gender": "Unisex"
+    },
+    {
+      "name": "Chip",
+      "meaning": "Small piece",
+      "origin": "English - from chip",
+      "personality": "Small, cute, and chippy. Ideal for small hamsters.",
+      "popularity": "Popular",
+      "gender": "Male"
+    },
+    {
+      "name": "Chippy",
+      "meaning": "Chipmunk-like",
+      "origin": "English - from chipmunk",
+      "personality": "Energetic, cute, and chippy. Perfect for energetic hamsters.",
+      "popularity": "Popular",
+      "gender": "Unisex"
+    },
+    {
+      "name": "Pipsqueak",
+      "meaning": "Small person",
+      "origin": "English - from pip and squeak",
+      "personality": "Tiny, vocal, and cute. Great for small, vocal hamsters.",
+      "popularity": "Moderate",
+      "gender": "Unisex"
+    },
+    {
+      "name": "Tiny",
+      "meaning": "Very small",
+      "origin": "English - from tiny",
+      "personality": "Small, delicate, and cute. Ideal for dwarf hamsters.",
+      "popularity": "Popular",
+      "gender": "Unisex"
+    },
+    {
+      "name": "Mini",
+      "meaning": "Small",
+      "origin": "Latin - from minimus",
+      "personality": "Miniature, cute, and small. Perfect for dwarf hamsters.",
+      "popularity": "Popular",
+      "gender": "Unisex"
+    },
+    {
+      "name": "Pebbles",
+      "meaning": "Small stones",
+      "origin": "English - from pebble",
+      "personality": "Small, round, and cute. Great for round hamsters.",
+      "popularity": "Popular",
+      "gender": "Female"
+    },
+    {
+      "name": "Marble",
+      "meaning": "Small glass ball",
+      "origin": "Greek - from marmaros",
+      "personality": "Round, colorful, and playful. Ideal for playful hamsters.",
+      "popularity": "Moderate",
+      "gender": "Unisex"
+    },
+    {
+      "name": "Button",
+      "meaning": "Small fastener",
+      "origin": "French - from bouton",
+      "personality": "Small, cute, and adorable. Perfect for tiny hamsters.",
+      "popularity": "Popular",
+      "gender": "Unisex"
+    },
+    {
+      "name": "Nugget",
+      "meaning": "Small lump",
+      "origin": "English - from nugget",
+      "personality": "Small, precious, and golden. Great for golden hamsters.",
+      "popularity": "Very popular",
+      "gender": "Unisex"
+    },
+    {
+      "name": "Pumpkin",
+      "meaning": "Orange squash",
+      "origin": "Greek - from pepon",
+      "personality": "Sweet, round, and orange. Ideal for orange hamsters.",
+      "popularity": "Popular",
+      "gender": "Unisex"
+    },
+    {
+      "name": "Butterscotch",
+      "meaning": "Butter and sugar candy",
+      "origin": "English - from butterscotch",
+      "personality": "Sweet, golden, and rich. Perfect for golden hamsters.",
+      "popularity": "Moderate",
+      "gender": "Unisex"
+    },
+    {
+      "name": "Taffy",
+      "meaning": "Chewy candy",
+      "origin": "Welsh - from taffy",
+      "personality": "Sweet, sticky, and playful. Great for playful hamsters.",
+      "popularity": "Moderate",
+      "gender": "Unisex"
+    },
+    {
+      "name": "Jellybean",
+      "meaning": "Small candy",
+      "origin": "American - from jelly bean",
+      "personality": "Sweet, colorful, and small. Ideal for colorful hamsters.",
+      "popularity": "Moderate",
+      "gender": "Unisex"
+    },
+    {
+      "name": "Skittles",
+      "meaning": "Colorful candy",
+      "origin": "American - brand name",
+      "personality": "Colorful, sweet, and energetic. Perfect for energetic hamsters.",
+      "popularity": "Moderate",
+      "gender": "Unisex"
+    }
+  ],
+  "guineaPig": [
+    {
+      "name": "Piglet",
+      "meaning": "Small pig",
+      "origin": "English - after Winnie the Pooh character",
+      "personality": "Timid, sweet, and lovable. Perfect for small, gentle guinea pigs.",
+      "popularity": "Very popular",
+      "gender": "Unisex"
+    },
+    {
+      "name": "Bacon",
+      "meaning": "Cured pork",
+      "origin": "English - play on the 'pig' in their name",
+      "personality": "Ironic, funny, and memorable. Ideal for guinea pigs with a sense of humor.",
+      "popularity": "Popular",
+      "gender": "Unisex"
+    },
+    {
+      "name": "Chomper",
+      "meaning": "One who chomps",
+      "origin": "English - references their constantly growing teeth",
+      "personality": "Active, hungry, and busy. Great for guinea pigs who love to eat.",
+      "popularity": "Popular",
+      "gender": "Unisex"
+    },
+    {
+      "name": "Nibbles",
+      "meaning": "Small bites",
+      "origin": "English - references their eating habits",
+      "personality": "Cute, hungry, and gentle. Perfect for guinea pigs who nibble constantly.",
+      "popularity": "Very popular",
+      "gender": "Unisex"
+    },
+    {
+      "name": "Pancake",
+      "meaning": "Flat breakfast item",
+      "origin": "English - sweet, fluffy and golden brown",
+      "personality": "Flat, relaxed, and sweet. Ideal for guinea pigs who flatten out.",
+      "popularity": "Moderate",
+      "gender": "Unisex"
+    },
+    {
+      "name": "Porky",
+      "meaning": "Like pork",
+      "origin": "English - after the classic Looney Tunes pig",
+      "personality": "Classic, funny, and memorable. Great for chubby guinea pigs.",
+      "popularity": "Popular",
+      "gender": "Male"
+    },
+    {
+      "name": "Wilbur",
+      "meaning": "Desired will",
+      "origin": "Literature - after the famous pig in 'Charlotte's Web'",
+      "personality": "Gentle, famous, and beloved. Perfect for special guinea pigs.",
+      "popularity": "Popular",
+      "gender": "Male"
+    },
+    {
+      "name": "Coco",
+      "meaning": "Chocolate",
+      "origin": "Spanish - play on chocolate for brown guinea pigs",
+      "personality": "Sweet, rich, and warm. Ideal for brown or chocolate-colored guinea pigs.",
+      "popularity": "Very popular",
+      "gender": "Unisex"
+    },
+    {
+      "name": "Oinker",
+      "meaning": "One who oinks",
+      "origin": "English - references pig-like sounds",
+      "personality": "Vocal, expressive, and funny. Great for vocal guinea pigs.",
+      "popularity": "Moderate",
+      "gender": "Unisex"
+    },
+    {
+      "name": "Purla",
+      "meaning": "One who purrs",
+      "origin": "English - references their purring ability",
+      "personality": "Content, happy, and vocal. Perfect for guinea pigs who purr.",
+      "popularity": "Moderate",
+      "gender": "Female"
+    },
+    {
+      "name": "Snuggles",
+      "meaning": "Cuddly affection",
+      "origin": "English - for the most affectionate guinea pigs",
+      "personality": "Affectionate, cuddly, and loving. Ideal for snuggly guinea pigs.",
+      "popularity": "Popular",
+      "gender": "Unisex"
+    },
+    {
+      "name": "Patches",
+      "meaning": "Different colored areas",
+      "origin": "English - for multi-colored guinea pigs",
+      "personality": "Unique, colorful, and distinctive. Great for multi-colored guinea pigs.",
+      "popularity": "Popular",
+      "gender": "Unisex"
+    },
+    {
+      "name": "Fluffy",
+      "meaning": "Soft and furry",
+      "origin": "English - for long-haired guinea pigs",
+      "personality": "Soft, cuddly, and adorable. Perfect for long-haired guinea pigs.",
+      "popularity": "Very popular",
+      "gender": "Unisex"
+    },
+    {
+      "name": "Cottonball",
+      "meaning": "Soft white ball",
+      "origin": "English - for white fluffy guinea pigs",
+      "personality": "Soft, white, and fluffy. Ideal for white, fluffy guinea pigs.",
+      "popularity": "Popular",
+      "gender": "Unisex"
+    },
+    {
+      "name": "Peanut",
+      "meaning": "Small nut",
+      "origin": "English - cute name for small guinea pigs",
+      "personality": "Small, cute, and nutty. Great for small guinea pigs.",
+      "popularity": "Very popular",
+      "gender": "Unisex"
+    },
+    {
+      "name": "Popcorn",
+      "meaning": "Popping kernels",
+      "origin": "English - references their joyful hopping",
+      "personality": "Bouncy, joyful, and energetic. Perfect for guinea pigs who popcorn.",
+      "popularity": "Very popular",
+      "gender": "Unisex"
+    },
+    {
+      "name": "Dusty",
+      "meaning": "Covered in dust",
+      "origin": "English - for light-colored guinea pigs",
+      "personality": "Soft, muted, and gentle. Ideal for gray or dusty-colored guinea pigs.",
+      "popularity": "Moderate",
+      "gender": "Unisex"
+    },
+    {
+      "name": "Gizmo",
+      "meaning": "Small device",
+      "origin": "English - for energetic guinea pigs",
+      "personality": "Energetic, curious, and mechanical. Great for active guinea pigs.",
+      "popularity": "Popular",
+      "gender": "Male"
+    },
+    {
+      "name": "Mochi",
+      "meaning": "Soft rice cake",
+      "origin": "Japanese - perfect for soft, squishy guinea pigs",
+      "personality": "Soft, sweet, and squishy. Perfect for chubby guinea pigs.",
+      "popularity": "Popular",
+      "gender": "Unisex"
+    },
+    {
+      "name": "Toothy",
+      "meaning": "Having teeth",
+      "origin": "English - references their distinctive teeth",
+      "personality": "Toothy, expressive, and unique. Ideal for guinea pigs with prominent teeth.",
+      "popularity": "Moderate",
+      "gender": "Unisex"
+    },
+    {
+      "name": "Chirpy",
+      "meaning": "Cheerful",
+      "origin": "English - for vocal guinea pigs",
+      "personality": "Vocal, cheerful, and expressive. Great for talkative guinea pigs.",
+      "popularity": "Moderate",
+      "gender": "Unisex"
+    },
+    {
+      "name": "Purrsula",
+      "meaning": "Purring female",
+      "origin": "English - combination of purr and Ursula",
+      "personality": "Vocal, content, and unique. Perfect for female guinea pigs who purr.",
+      "popularity": "Moderate",
+      "gender": "Female"
+    },
+    {
+      "name": "Oreo",
+      "meaning": "Black and white cookie",
+      "origin": "American - brand name",
+      "personality": "Sweet, distinctive, and adorable. Perfect for black and white guinea pigs.",
+      "popularity": "Very popular",
+      "gender": "Unisex"
+    },
+    {
+      "name": "Peanut",
+      "meaning": "Small nut",
+      "origin": "English - from peanut",
+      "personality": "Small, cute, and nutty. Great for small guinea pigs.",
+      "popularity": "Very popular",
+      "gender": "Unisex"
+    },
+    {
+      "name": "Caramel",
+      "meaning": "Burnt sugar",
+      "origin": "French - from caramel",
+      "personality": "Sweet, golden, and sticky. Ideal for golden guinea pigs.",
+      "popularity": "Popular",
+      "gender": "Unisex"
+    },
+    {
+      "name": "Butterscotch",
+      "meaning": "Butter and sugar candy",
+      "origin": "English - from butterscotch",
+      "personality": "Sweet, golden, and rich. Perfect for golden guinea pigs.",
+      "popularity": "Popular",
+      "gender": "Unisex"
+    },
+    {
+      "name": "Marshmallow",
+      "meaning": "Soft candy",
+      "origin": "English - from marshmallow",
+      "personality": "Soft, sweet, and fluffy. Great for white guinea pigs.",
+      "popularity": "Very popular",
+      "gender": "Unisex"
+    },
+    {
+      "name": "Cookie",
+      "meaning": "Sweet baked treat",
+      "origin": "Dutch - from koekje",
+      "personality": "Sweet, lovable, and classic. Ideal for brown guinea pigs.",
+      "popularity": "Very popular",
+      "gender": "Unisex"
+    },
+    {
+      "name": "Brownie",
+      "meaning": "Chocolate cake",
+      "origin": "American - from brownie",
+      "personality": "Sweet, rich, and brown. Perfect for brown guinea pigs.",
+      "popularity": "Popular",
+      "gender": "Unisex"
+    },
+    {
+      "name": "Cocoa",
+      "meaning": "Chocolate powder",
+      "origin": "Spanish - from cacao",
+      "personality": "Rich, warm, and brown. Great for brown guinea pigs.",
+      "popularity": "Popular",
+      "gender": "Unisex"
+    },
+    {
+      "name": "Honey",
+      "meaning": "Sweet nectar",
+      "origin": "English - from honey",
+      "personality": "Sweet, loving, and golden. Ideal for golden guinea pigs.",
+      "popularity": "Very popular",
+      "gender": "Female"
+    },
+    {
+      "name": "Sugar",
+      "meaning": "Sweet substance",
+      "origin": "Sanskrit - from sharkara",
+      "personality": "Sweet, loving, and white. Perfect for white guinea pigs.",
+      "popularity": "Popular",
+      "gender": "Female"
+    },
+    {
+      "name": "Cuddles",
+      "meaning": "Affectionate hugs",
+      "origin": "English - from cuddle",
+      "personality": "Affectionate, cuddly, and loving. Great for snuggly guinea pigs.",
+      "popularity": "Popular",
+      "gender": "Unisex"
+    },
+    {
+      "name": "Squeaky",
+      "meaning": "Makes squeaking sounds",
+      "origin": "English - from squeak",
+      "personality": "Vocal, expressive, and cute. Ideal for vocal guinea pigs.",
+      "popularity": "Popular",
+      "gender": "Unisex"
+    },
+    {
+      "name": "Whiskers",
+      "meaning": "Facial hair",
+      "origin": "English - from whisker",
+      "personality": "Sensitive, alert, and classic. Perfect for guinea pigs with prominent whiskers.",
+      "popularity": "Very popular",
+      "gender": "Unisex"
+    },
+    {
+      "name": "Fuzzy",
+      "meaning": "Covered with fuzz",
+      "origin": "English - from fuzz",
+      "personality": "Soft, fuzzy, and cute. Great for fluffy guinea pigs.",
+      "popularity": "Popular",
+      "gender": "Unisex"
+    },
+    {
+      "name": "Bubbles",
+      "meaning": "Air spheres",
+      "origin": "English - from bubble",
+      "personality": "Playful, bubbly, and cheerful. Ideal for happy guinea pigs.",
+      "popularity": "Popular",
+      "gender": "Unisex"
+    },
+    {
+      "name": "Pumpkin",
+      "meaning": "Orange squash",
+      "origin": "Greek - from pepon",
+      "personality": "Sweet, round, and orange. Perfect for orange guinea pigs.",
+      "popularity": "Popular",
+      "gender": "Unisex"
+    },
+    {
+      "name": "Cinnamon",
+      "meaning": "Spice",
+      "origin": "Greek - from kinnamomon",
+      "personality": "Warm, spicy, and brown. Great for cinnamon-colored guinea pigs.",
+      "popularity": "Popular",
+      "gender": "Unisex"
+    },
+    {
+      "name": "Ginger",
+      "meaning": "Spice or red-haired",
+      "origin": "English - from ginger",
+      "personality": "Spicy, warm, and energetic. Ideal for orange guinea pigs.",
+      "popularity": "Popular",
+      "gender": "Unisex"
+    },
+    {
+      "name": "Pepper",
+      "meaning": "Hot spice",
+      "origin": "English - from pepper",
+      "personality": "Spicy, energetic, and feisty. Perfect for lively guinea pigs.",
+      "popularity": "Very popular",
+      "gender": "Unisex"
+    },
+    {
+      "name": "Toffee",
+      "meaning": "Sweet candy",
+      "origin": "English - from toffee",
+      "personality": "Sweet, sticky, and brown. Great for brown guinea pigs.",
+      "popularity": "Popular",
+      "gender": "Unisex"
+    },
+    {
+      "name": "Mocha",
+      "meaning": "Coffee with chocolate",
+      "origin": "Arabic - from Mocha, Yemen",
+      "personality": "Rich, warm, and brown. Ideal for brown guinea pigs.",
+      "popularity": "Popular",
+      "gender": "Unisex"
+    },
+    {
+      "name": "Latte",
+      "meaning": "Coffee with milk",
+      "origin": "Italian - from caff\u00e8 latte",
+      "personality": "Warm, creamy, and sweet. Perfect for brown and white guinea pigs.",
+      "popularity": "Moderate",
+      "gender": "Unisex"
+    },
+    {
+      "name": "Biscuit",
+      "meaning": "Small baked good",
+      "origin": "French - from bescuit",
+      "personality": "Sweet, small, and delightful. Great for golden guinea pigs.",
+      "popularity": "Popular",
+      "gender": "Unisex"
+    },
+    {
+      "name": "Muffin",
+      "meaning": "Small cake",
+      "origin": "German - from muffe",
+      "personality": "Sweet, small, and adorable. Ideal for cute guinea pigs.",
+      "popularity": "Popular",
+      "gender": "Unisex"
+    },
+    {
+      "name": "Cupcake",
+      "meaning": "Small cake",
+      "origin": "American - from cupcake",
+      "personality": "Sweet, small, and delightful. Perfect for adorable guinea pigs.",
+      "popularity": "Popular",
+      "gender": "Unisex"
+    },
+    {
+      "name": "Pudding",
+      "meaning": "Sweet dessert",
+      "origin": "English - from pudding",
+      "personality": "Sweet, soft, and cuddly. Great for soft guinea pigs.",
+      "popularity": "Popular",
+      "gender": "Unisex"
+    },
+    {
+      "name": "Truffle",
+      "meaning": "Chocolate candy",
+      "origin": "French - from truffe",
+      "personality": "Sweet, rich, and precious. Ideal for dark guinea pigs.",
+      "popularity": "Moderate",
+      "gender": "Unisex"
+    },
+    {
+      "name": "Waffles",
+      "meaning": "Breakfast food",
+      "origin": "Dutch - from wafel",
+      "personality": "Sweet, warm, and golden. Perfect for golden guinea pigs.",
+      "popularity": "Moderate",
+      "gender": "Unisex"
+    }
+  ],
+  "hedgehog": [
+    {
+      "name": "Sonic",
+      "meaning": "Fast-moving",
+      "origin": "Video games - world's most famous hedgehog character",
+      "personality": "Fast, adventurous, and heroic. Perfect for blue hedgehogs or speedsters.",
+      "popularity": "Extremely popular",
+      "gender": "Male"
+    },
+    {
+      "name": "Quill",
+      "meaning": "Sharp spine",
+      "origin": "English - refers to hedgehog's spines",
+      "personality": "Sharp, distinctive, and literary. Ideal for hedgehogs with prominent quills.",
+      "popularity": "Popular",
+      "gender": "Unisex"
+    },
+    {
+      "name": "Prickles",
+      "meaning": "Sharp points",
+      "origin": "English - honest reference to their spiky nature",
+      "personality": "Spiky, honest, and straightforward. Great for prickly hedgehogs.",
+      "popularity": "Very popular",
+      "gender": "Unisex"
+    },
+    {
+      "name": "Spikey",
+      "meaning": "Full of spikes",
+      "origin": "English - direct reference to their spines",
+      "personality": "Spiky, defensive, and distinctive. Perfect for hedgehogs with many spines.",
+      "popularity": "Very popular",
+      "gender": "Unisex"
+    },
+    {
+      "name": "Pokey",
+      "meaning": "Likely to poke",
+      "origin": "English - they might poke you with their spines",
+      "personality": "Defensive, cautious, and spiky. Ideal for hedgehogs who poke when scared.",
+      "popularity": "Popular",
+      "gender": "Unisex"
+    },
+    {
+      "name": "Hogsworth",
+      "meaning": "Hog estate",
+      "origin": "English - sophisticated take on 'hog'",
+      "personality": "Distinguished, sophisticated, and noble. Great for refined hedgehogs.",
+      "popularity": "Moderate",
+      "gender": "Male"
+    },
+    {
+      "name": "Mr. Needles",
+      "meaning": "Sharp spines",
+      "origin": "English - direct reference to their spines",
+      "personality": "Formal, spiky, and memorable. Perfect for male hedgehogs.",
+      "popularity": "Popular",
+      "gender": "Male"
+    },
+    {
+      "name": "Bagel",
+      "meaning": "Round bread",
+      "origin": "English - resemblance when curled into a ball",
+      "personality": "Round, cute, and food-inspired. Ideal for hedgehogs who curl up.",
+      "popularity": "Moderate",
+      "gender": "Unisex"
+    },
+    {
+      "name": "Pincushion",
+      "meaning": "Needle holder",
+      "origin": "English - resemblance to this household item",
+      "personality": "Spiky, useful, and distinctive. Great for hedgehogs covered in quills.",
+      "popularity": "Popular",
+      "gender": "Unisex"
+    },
+    {
+      "name": "Sea Urchin",
+      "meaning": "Spiny sea creature",
+      "origin": "English - resemblance when curled into a ball",
+      "personality": "Spiky, round, and oceanic. Perfect for hedgehogs who curl up.",
+      "popularity": "Moderate",
+      "gender": "Unisex"
+    },
+    {
+      "name": "Mr. Pricklepants",
+      "meaning": "Spiny gentleman",
+      "origin": "Movies - stuffed hedgehog toy from Toy Story 3",
+      "personality": "Theatrical, dramatic, and distinguished. Ideal for dramatic hedgehogs.",
+      "popularity": "Popular",
+      "gender": "Male"
+    },
+    {
+      "name": "Mrs. Tiggy-Winkle",
+      "meaning": "Beatrix Potter character",
+      "origin": "Literature - title character from children's book",
+      "personality": "Domestic, helpful, and classic. Great for female hedgehogs.",
+      "popularity": "Popular",
+      "gender": "Female"
+    },
+    {
+      "name": "Lou",
+      "meaning": "Famous hedgehog",
+      "origin": "Movies - character from DreamWorks' Over the Hedge",
+      "personality": "Fatherly, protective, and wise. Perfect for older male hedgehogs.",
+      "popularity": "Moderate",
+      "gender": "Male"
+    },
+    {
+      "name": "Penny",
+      "meaning": "Small coin",
+      "origin": "English - Lou's wife from Over the Hedge",
+      "personality": "Sweet, supportive, and loving. Ideal for female hedgehogs.",
+      "popularity": "Popular",
+      "gender": "Female"
+    },
+    {
+      "name": "Una",
+      "meaning": "Purple hedgehog",
+      "origin": "Movies - character from animated film Ferdinand",
+      "personality": "Gentle, kind, and supportive. Great for gentle hedgehogs.",
+      "popularity": "Moderate",
+      "gender": "Female"
+    },
+    {
+      "name": "Scourge",
+      "meaning": "Evil Sonic",
+      "origin": "Video games - green hedgehog character in Sonic universe",
+      "personality": "Edgy, tough, and rebellious. Perfect for green or tough hedgehogs.",
+      "popularity": "Moderate",
+      "gender": "Male"
+    },
+    {
+      "name": "Shadow",
+      "meaning": "Dark counterpart",
+      "origin": "Video games - Sonic's black-and-red counterpart",
+      "personality": "Dark, mysterious, and powerful. Ideal for black hedgehogs.",
+      "popularity": "Very popular",
+      "gender": "Male"
+    },
+    {
+      "name": "Amy Rose",
+      "meaning": "Pink-furred girlfriend",
+      "origin": "Video games - Sonic's pink-furred companion",
+      "personality": "Energetic, loving, and determined. Great for pink hedgehogs.",
+      "popularity": "Popular",
+      "gender": "Female"
+    },
+    {
+      "name": "Brandon",
+      "meaning": "Sword",
+      "origin": "English - references their many built-in sharp blades",
+      "personality": "Sharp, protective, and strong. Perfect for hedgehogs with many quills.",
+      "popularity": "Moderate",
+      "gender": "Male"
+    },
+    {
+      "name": "Daydream",
+      "meaning": "Sleeping thoughts",
+      "origin": "English - they sleep much of the day",
+      "personality": "Sleepy, peaceful, and dreamy. Ideal for hedgehogs who sleep a lot.",
+      "popularity": "Moderate",
+      "gender": "Unisex"
+    },
+    {
+      "name": "Rose",
+      "meaning": "Beautiful but thorny",
+      "origin": "English - perfect for feisty female hedgehogs",
+      "personality": "Beautiful, thorny, and elegant. Great for female hedgehogs with attitude.",
+      "popularity": "Popular",
+      "gender": "Female"
+    },
+    {
+      "name": "Russell",
+      "meaning": "Red squirrel",
+      "origin": "TV - hedgehog from Littlest Pet Shop series",
+      "personality": "Friendly, energetic, and memorable. Perfect for energetic hedgehogs.",
+      "popularity": "Moderate",
+      "gender": "Male"
+    },
+    {
+      "name": "Spike",
+      "meaning": "Sharp point",
+      "origin": "English - from spike",
+      "personality": "Spiky, defensive, and tough. Perfect for hedgehogs with many spines.",
+      "popularity": "Very popular",
+      "gender": "Male"
+    },
+    {
+      "name": "Needle",
+      "meaning": "Sharp pin",
+      "origin": "English - from needle",
+      "personality": "Sharp, precise, and spiky. Great for hedgehogs with prominent quills.",
+      "popularity": "Popular",
+      "gender": "Unisex"
+    },
+    {
+      "name": "Cactus",
+      "meaning": "Spiny plant",
+      "origin": "Greek - from kaktos",
+      "personality": "Spiky, desert-like, and tough. Ideal for spiky hedgehogs.",
+      "popularity": "Popular",
+      "gender": "Unisex"
+    },
+    {
+      "name": "Thistle",
+      "meaning": "Prickly plant",
+      "origin": "English - from thistle",
+      "personality": "Prickly, wild, and natural. Perfect for wild-looking hedgehogs.",
+      "popularity": "Moderate",
+      "gender": "Unisex"
+    },
+    {
+      "name": "Bramble",
+      "meaning": "Thorny bush",
+      "origin": "English - from bramble",
+      "personality": "Thorny, wild, and natural. Great for hedgehogs with many spines.",
+      "popularity": "Moderate",
+      "gender": "Unisex"
+    },
+    {
+      "name": "Thorn",
+      "meaning": "Sharp point on plant",
+      "origin": "English - from thorn",
+      "personality": "Sharp, defensive, and protective. Ideal for protective hedgehogs.",
+      "popularity": "Popular",
+      "gender": "Male"
+    },
+    {
+      "name": "Knuckles",
+      "meaning": "Finger joints",
+      "origin": "English - from Sonic character",
+      "personality": "Tough, strong, and red. Perfect for red hedgehogs.",
+      "popularity": "Very popular",
+      "gender": "Male"
+    },
+    {
+      "name": "Silver",
+      "meaning": "Precious metal",
+      "origin": "English - from Sonic character",
+      "personality": "Fast, psychic, and silver. Great for silver hedgehogs.",
+      "popularity": "Popular",
+      "gender": "Male"
+    },
+    {
+      "name": "Tails",
+      "meaning": "Animal tail",
+      "origin": "English - from Sonic character",
+      "personality": "Smart, loyal, and friendly. Ideal for friendly hedgehogs.",
+      "popularity": "Popular",
+      "gender": "Male"
+    },
+    {
+      "name": "Rouge",
+      "meaning": "Red",
+      "origin": "French - from Sonic character",
+      "personality": "Sassy, clever, and white. Perfect for white hedgehogs.",
+      "popularity": "Moderate",
+      "gender": "Female"
+    },
+    {
+      "name": "Cream",
+      "meaning": "Dairy product",
+      "origin": "English - from Sonic character",
+      "personality": "Sweet, gentle, and cream-colored. Great for cream hedgehogs.",
+      "popularity": "Moderate",
+      "gender": "Female"
+    },
+    {
+      "name": "Blaze",
+      "meaning": "Flame",
+      "origin": "English - from Sonic character",
+      "personality": "Fiery, powerful, and purple. Ideal for purple hedgehogs.",
+      "popularity": "Popular",
+      "gender": "Female"
+    },
+    {
+      "name": "Espio",
+      "meaning": "Spy",
+      "origin": "Spanish - from Sonic character",
+      "personality": "Stealthy, purple, and ninja-like. Perfect for purple hedgehogs.",
+      "popularity": "Moderate",
+      "gender": "Male"
+    },
+    {
+      "name": "Vector",
+      "meaning": "Direction",
+      "origin": "Latin - from Sonic character",
+      "personality": "Strong, green, and musical. Great for green hedgehogs.",
+      "popularity": "Moderate",
+      "gender": "Male"
+    },
+    {
+      "name": "Charmy",
+      "meaning": "Charming",
+      "origin": "English - from Sonic character",
+      "personality": "Energetic, young, and yellow. Ideal for yellow hedgehogs.",
+      "popularity": "Moderate",
+      "gender": "Male"
+    },
+    {
+      "name": "Big",
+      "meaning": "Large",
+      "origin": "English - from Sonic character",
+      "personality": "Large, gentle, and purple. Perfect for large hedgehogs.",
+      "popularity": "Moderate",
+      "gender": "Male"
+    },
+    {
+      "name": "Omega",
+      "meaning": "Last",
+      "origin": "Greek - from Sonic character",
+      "personality": "Robotic, powerful, and red. Great for red hedgehogs.",
+      "popularity": "Moderate",
+      "gender": "Male"
+    },
+    {
+      "name": "Jet",
+      "meaning": "Fast",
+      "origin": "English - from Sonic character",
+      "personality": "Fast, competitive, and green. Ideal for green hedgehogs.",
+      "popularity": "Moderate",
+      "gender": "Male"
+    },
+    {
+      "name": "Wave",
+      "meaning": "Water movement",
+      "origin": "English - from Sonic character",
+      "personality": "Smart, purple, and technical. Perfect for purple hedgehogs.",
+      "popularity": "Moderate",
+      "gender": "Female"
+    },
+    {
+      "name": "Storm",
+      "meaning": "Violent weather",
+      "origin": "English - from Sonic character",
+      "personality": "Strong, gray, and powerful. Great for gray hedgehogs.",
+      "popularity": "Popular",
+      "gender": "Male"
+    },
+    {
+      "name": "Mephiles",
+      "meaning": "Dark",
+      "origin": "Latin - from Sonic character",
+      "personality": "Dark, mysterious, and powerful. Ideal for dark hedgehogs.",
+      "popularity": "Moderate",
+      "gender": "Male"
+    },
+    {
+      "name": "Infinite",
+      "meaning": "Endless",
+      "origin": "Latin - from Sonic character",
+      "personality": "Powerful, masked, and mysterious. Perfect for mysterious hedgehogs.",
+      "popularity": "Moderate",
+      "gender": "Male"
+    },
+    {
+      "name": "Chip",
+      "meaning": "Small piece",
+      "origin": "English - from Sonic character",
+      "personality": "Small, friendly, and helpful. Great for small hedgehogs.",
+      "popularity": "Popular",
+      "gender": "Male"
+    },
+    {
+      "name": "Tikal",
+      "meaning": "Ancient echidna",
+      "origin": "Mayan - from Sonic character",
+      "personality": "Spiritual, orange, and wise. Ideal for orange hedgehogs.",
+      "popularity": "Moderate",
+      "gender": "Female"
+    },
+    {
+      "name": "Chaos",
+      "meaning": "Disorder",
+      "origin": "Greek - from Sonic character",
+      "personality": "Powerful, water-like, and mysterious. Perfect for unique hedgehogs.",
+      "popularity": "Moderate",
+      "gender": "Unisex"
+    },
+    {
+      "name": "Metal",
+      "meaning": "Metallic",
+      "origin": "English - from Sonic character",
+      "personality": "Robotic, fast, and metallic. Great for gray hedgehogs.",
+      "popularity": "Moderate",
+      "gender": "Male"
+    },
+    {
+      "name": "Eggman",
+      "meaning": "Egg-shaped",
+      "origin": "English - from Sonic character",
+      "personality": "Round, clever, and villainous. Ideal for round hedgehogs.",
+      "popularity": "Moderate",
+      "gender": "Male"
+    },
+    {
+      "name": "Vanilla",
+      "meaning": "Vanilla bean",
+      "origin": "Spanish - from Sonic character",
+      "personality": "Sweet, gentle, and cream-colored. Perfect for cream hedgehogs.",
+      "popularity": "Moderate",
+      "gender": "Female"
+    }
+  ],
+  "ferret": [
+    {
+      "name": "Furittus",
+      "meaning": "Little thief",
+      "origin": "Latin - the origin of 'ferret' meaning little thief",
+      "personality": "Sneaky, clever, and mischievous. Perfect for ferrets who steal things.",
+      "popularity": "Moderate",
+      "gender": "Male"
+    },
+    {
+      "name": "Bandito",
+      "meaning": "Outlaw",
+      "origin": "TV - black-footed ferret from Wild Kratts series",
+      "personality": "Mischievous, adventurous, and rebellious. Ideal for ferrets with masks.",
+      "popularity": "Moderate",
+      "gender": "Male"
+    },
+    {
+      "name": "Buzzy",
+      "meaning": "Energetic",
+      "origin": "TV - ferret from PBS Kids Zula Patrol series",
+      "personality": "Energetic, busy, and active. Great for hyperactive ferrets.",
+      "popularity": "Moderate",
+      "gender": "Unisex"
+    },
+    {
+      "name": "Mischief",
+      "meaning": "Troublemaking",
+      "origin": "English - ferrets are known for getting into mischief",
+      "personality": "Playful, troublesome, and fun. Perfect for ferrets who cause chaos.",
+      "popularity": "Popular",
+      "gender": "Unisex"
+    },
+    {
+      "name": "Will Ferret",
+      "meaning": "Actor reference",
+      "origin": "Pop culture - play on actor Will Ferrell's name",
+      "personality": "Funny, entertaining, and memorable. Ideal for comedic ferrets.",
+      "popularity": "Popular",
+      "gender": "Male"
+    },
+    {
+      "name": "Ferret Bueller",
+      "meaning": "Life moves fast",
+      "origin": "Pop culture - play on Ferris Bueller character",
+      "personality": "Clever, charming, and rule-breaking. Great for smart ferrets.",
+      "popularity": "Moderate",
+      "gender": "Male"
+    },
+    {
+      "name": "Rodolfo",
+      "meaning": "Famous pet",
+      "origin": "Movies - Polly's pet ferret in Along Came Polly",
+      "personality": "Unpredictable, memorable, and scene-stealing. Perfect for dramatic ferrets.",
+      "popularity": "Moderate",
+      "gender": "Male"
+    },
+    {
+      "name": "Pickles",
+      "meaning": "Funny pet",
+      "origin": "Literature - pet ferret from Elements of Genius book series",
+      "personality": "Funny, quirky, and memorable. Ideal for amusing ferrets.",
+      "popularity": "Popular",
+      "gender": "Unisex"
+    },
+    {
+      "name": "Kiki",
+      "meaning": "Sweet natured",
+      "origin": "Comics - sweet-natured talking ferret from webcomic",
+      "personality": "Sweet, gentle, and communicative. Great for friendly ferrets.",
+      "popularity": "Moderate",
+      "gender": "Female"
+    },
+    {
+      "name": "Havoc",
+      "meaning": "Chaos",
+      "origin": "English - for ferrets who always get in trouble",
+      "personality": "Chaotic, destructive, and energetic. Perfect for troublemaking ferrets.",
+      "popularity": "Popular",
+      "gender": "Unisex"
+    },
+    {
+      "name": "Sprite",
+      "meaning": "Spayed female",
+      "origin": "English - a sprite is a spayed female ferret",
+      "personality": "Energetic, playful, and spirited. Ideal for female ferrets.",
+      "popularity": "Moderate",
+      "gender": "Female"
+    },
+    {
+      "name": "Hobbie",
+      "meaning": "Male ferret",
+      "origin": "English - for male ferrets (hobs)",
+      "personality": "Masculine, strong, and territorial. Great for male ferrets.",
+      "popularity": "Moderate",
+      "gender": "Male"
+    },
+    {
+      "name": "Mustela",
+      "meaning": "Species name",
+      "origin": "Scientific - the species name of the ferret",
+      "personality": "Scientific, precise, and distinctive. Perfect for ferret enthusiasts.",
+      "popularity": "Moderate",
+      "gender": "Unisex"
+    },
+    {
+      "name": "Woody",
+      "meaning": "Woodsy smell",
+      "origin": "English - references their natural woodsy scent",
+      "personality": "Natural, earthy, and distinctive. Ideal for ferrets with musky scent.",
+      "popularity": "Moderate",
+      "gender": "Male"
+    },
+    {
+      "name": "Shaggy",
+      "meaning": "Hairy",
+      "origin": "English - references their hairy appearance",
+      "personality": "Fuzzy, unkempt, and lovable. Great for long-haired ferrets.",
+      "popularity": "Moderate",
+      "gender": "Male"
+    },
+    {
+      "name": "Snake",
+      "meaning": "Slender body",
+      "origin": "English - references their long, slender body",
+      "personality": "Sleek, flexible, and sneaky. Perfect for ferrets who slither around.",
+      "popularity": "Moderate",
+      "gender": "Unisex"
+    },
+    {
+      "name": "Snoozy",
+      "meaning": "Sleepy",
+      "origin": "English - ferrets sleep 18 hours a day",
+      "personality": "Sleepy, relaxed, and peaceful. Ideal for ferrets who sleep a lot.",
+      "popularity": "Moderate",
+      "gender": "Unisex"
+    },
+    {
+      "name": "Dunglap",
+      "meaning": "Best friend",
+      "origin": "TV - CatDog's weasel friend from animated series",
+      "personality": "Loyal, friendly, and supportive. Great for companion ferrets.",
+      "popularity": "Moderate",
+      "gender": "Male"
+    },
+    {
+      "name": "Cyrano",
+      "meaning": "Pet ferret",
+      "origin": "Movies - Carl Jenkins' pet ferret in Starship Troopers",
+      "personality": "Intelligent, loyal, and memorable. Perfect for smart ferrets.",
+      "popularity": "Moderate",
+      "gender": "Male"
+    },
+    {
+      "name": "Loki",
+      "meaning": "Trickster god",
+      "origin": "Mythology - your ferret is a bit of a trickster",
+      "personality": "Mischievous, clever, and playful. Ideal for trickster ferrets.",
+      "popularity": "Very popular",
+      "gender": "Male"
+    },
+    {
+      "name": "Hermes",
+      "meaning": "God of thieves",
+      "origin": "Mythology - references a ferret's nature to steal",
+      "personality": "Quick, clever, and thieving. Great for ferrets who steal things.",
+      "popularity": "Moderate",
+      "gender": "Male"
+    },
+    {
+      "name": "Duke",
+      "meaning": "Petty thief",
+      "origin": "Movies - Duke Weaselton from Zootopia",
+      "personality": "Sneaky, fast-talking, and memorable. Perfect for clever ferrets.",
+      "popularity": "Moderate",
+      "gender": "Male"
+    },
+    {
+      "name": "Bandit",
+      "meaning": "Outlaw or thief",
+      "origin": "Italian - from bandito",
+      "personality": "Mischievous, playful, and clever. Perfect for sneaky ferrets.",
+      "popularity": "Very popular",
+      "gender": "Male"
+    },
+    {
+      "name": "Rascal",
+      "meaning": "Mischievous person",
+      "origin": "English - from rascal",
+      "personality": "Mischievous, playful, and troublesome. Great for naughty ferrets.",
+      "popularity": "Very popular",
+      "gender": "Unisex"
+    },
+    {
+      "name": "Slinky",
+      "meaning": "Sleek and sinuous",
+      "origin": "English - from slink",
+      "personality": "Sleek, flexible, and sneaky. Ideal for slender ferrets.",
+      "popularity": "Popular",
+      "gender": "Unisex"
+    },
+    {
+      "name": "Noodle",
+      "meaning": "Long pasta",
+      "origin": "German - from nudel",
+      "personality": "Long, flexible, and silly. Perfect for long ferrets.",
+      "popularity": "Very popular",
+      "gender": "Unisex"
+    },
+    {
+      "name": "Weasel",
+      "meaning": "Small carnivore",
+      "origin": "English - from weasel",
+      "personality": "Sneaky, quick, and clever. Great for sneaky ferrets.",
+      "popularity": "Popular",
+      "gender": "Unisex"
+    },
+    {
+      "name": "Ziggy",
+      "meaning": "Victorious protector",
+      "origin": "Germanic - from Sigmund",
+      "personality": "Quirky, unique, and energetic. Ideal for energetic ferrets.",
+      "popularity": "Popular",
+      "gender": "Unisex"
+    },
+    {
+      "name": "Zoom",
+      "meaning": "Move quickly",
+      "origin": "English - from zoom",
+      "personality": "Fast, energetic, and playful. Perfect for fast ferrets.",
+      "popularity": "Popular",
+      "gender": "Unisex"
+    },
+    {
+      "name": "Turbo",
+      "meaning": "Fast",
+      "origin": "Latin - from turbo",
+      "personality": "Super fast, energetic, and powerful. Great for speedy ferrets.",
+      "popularity": "Popular",
+      "gender": "Male"
+    },
+    {
+      "name": "Rocket",
+      "meaning": "Fast projectile",
+      "origin": "Italian - from rocchetta",
+      "personality": "Fast, energetic, and explosive. Ideal for energetic ferrets.",
+      "popularity": "Popular",
+      "gender": "Male"
+    },
+    {
+      "name": "Flash",
+      "meaning": "Quick burst",
+      "origin": "English - from flash",
+      "personality": "Fast, bright, and energetic. Perfect for quick ferrets.",
+      "popularity": "Popular",
+      "gender": "Male"
+    },
+    {
+      "name": "Dash",
+      "meaning": "Quick run",
+      "origin": "English - from dash",
+      "personality": "Fast, energetic, and quick. Great for speedy ferrets.",
+      "popularity": "Popular",
+      "gender": "Male"
+    },
+    {
+      "name": "Speedy",
+      "meaning": "Fast",
+      "origin": "English - from speed",
+      "personality": "Fast, energetic, and quick. Ideal for fast ferrets.",
+      "popularity": "Popular",
+      "gender": "Unisex"
+    },
+    {
+      "name": "Zippy",
+      "meaning": "Fast moving",
+      "origin": "English - from zip",
+      "personality": "Fast, energetic, and lively. Perfect for quick ferrets.",
+      "popularity": "Popular",
+      "gender": "Unisex"
+    },
+    {
+      "name": "Scooter",
+      "meaning": "Quick mover",
+      "origin": "English - from scoot",
+      "personality": "Fast, playful, and energetic. Great for active ferrets.",
+      "popularity": "Popular",
+      "gender": "Male"
+    },
+    {
+      "name": "Bandit",
+      "meaning": "Masked thief",
+      "origin": "Italian - from bandito",
+      "personality": "Masked, sneaky, and clever. Ideal for masked ferrets.",
+      "popularity": "Very popular",
+      "gender": "Male"
+    },
+    {
+      "name": "Rogue",
+      "meaning": "Dishonest person",
+      "origin": "French - from rogue",
+      "personality": "Mischievous, independent, and clever. Perfect for independent ferrets.",
+      "popularity": "Popular",
+      "gender": "Unisex"
+    },
+    {
+      "name": "Rebel",
+      "meaning": "One who rebels",
+      "origin": "Latin - from rebellis",
+      "personality": "Rebellious, independent, and strong-willed. Great for stubborn ferrets.",
+      "popularity": "Popular",
+      "gender": "Unisex"
+    },
+    {
+      "name": "Outlaw",
+      "meaning": "Criminal",
+      "origin": "English - from outlaw",
+      "personality": "Wild, rebellious, and free. Ideal for wild ferrets.",
+      "popularity": "Moderate",
+      "gender": "Male"
+    },
+    {
+      "name": "Pirate",
+      "meaning": "Sea robber",
+      "origin": "Greek - from peirates",
+      "personality": "Adventurous, thieving, and nautical. Perfect for adventurous ferrets.",
+      "popularity": "Popular",
+      "gender": "Male"
+    },
+    {
+      "name": "Ninja",
+      "meaning": "Stealthy warrior",
+      "origin": "Japanese - from ninja",
+      "personality": "Stealthy, quick, and skilled. Great for sneaky ferrets.",
+      "popularity": "Popular",
+      "gender": "Unisex"
+    },
+    {
+      "name": "Shadow",
+      "meaning": "Dark silhouette",
+      "origin": "English - from shade",
+      "personality": "Stealthy, following, and mysterious. Ideal for dark ferrets.",
+      "popularity": "Very popular",
+      "gender": "Unisex"
+    },
+    {
+      "name": "Ghost",
+      "meaning": "Spirit",
+      "origin": "English - from ghost",
+      "personality": "Stealthy, pale, and mysterious. Perfect for white ferrets.",
+      "popularity": "Popular",
+      "gender": "Unisex"
+    },
+    {
+      "name": "Phantom",
+      "meaning": "Ghost",
+      "origin": "Greek - from phantasma",
+      "personality": "Mysterious, stealthy, and elusive. Great for elusive ferrets.",
+      "popularity": "Moderate",
+      "gender": "Male"
+    },
+    {
+      "name": "Stealth",
+      "meaning": "Secretive",
+      "origin": "English - from stealth",
+      "personality": "Stealthy, quiet, and sneaky. Ideal for quiet ferrets.",
+      "popularity": "Moderate",
+      "gender": "Unisex"
+    },
+    {
+      "name": "Prowler",
+      "meaning": "One who prowls",
+      "origin": "English - from prowl",
+      "personality": "Sneaky, hunting, and stealthy. Perfect for hunting ferrets.",
+      "popularity": "Moderate",
+      "gender": "Male"
+    },
+    {
+      "name": "Sly",
+      "meaning": "Cunning",
+      "origin": "Norse - from sloegr",
+      "personality": "Cunning, clever, and sneaky. Great for clever ferrets.",
+      "popularity": "Popular",
+      "gender": "Male"
+    },
+    {
+      "name": "Tricky",
+      "meaning": "Deceptive",
+      "origin": "English - from trick",
+      "personality": "Tricky, clever, and mischievous. Ideal for mischievous ferrets.",
+      "popularity": "Popular",
+      "gender": "Unisex"
+    },
+    {
+      "name": "Foxy",
+      "meaning": "Fox-like",
+      "origin": "English - from fox",
+      "personality": "Clever, sly, and beautiful. Perfect for clever ferrets.",
+      "popularity": "Popular",
+      "gender": "Female"
+    }
+  ]
+}
